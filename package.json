@@ -1,0 +1,8 @@
+{
+  "name": "avoimuusrekisteri",
+  "type": "module",
+  "scripts": {
+    "update": "node update.js"
+  },
+  "dependencies": {}
+}
