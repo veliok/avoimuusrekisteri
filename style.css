@@ -110,7 +110,6 @@ button:hover {
   justify-content: center;
   width: 400px;
   margin: 0 auto;
-  padding-bottom: 2rem;
 }
 #search-bar {
   width: 100%;
@@ -137,6 +136,7 @@ button:hover {
   scroll-snap-type: y mandatory;
   width: 100%;
   padding: 0;
+  margin: 5px;
   background-color: var(--bg-color);
   top: 100%;
   border: 1px solid var(--border-color);
