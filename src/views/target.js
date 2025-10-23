@@ -65,7 +65,7 @@ export function renderTarget(container, id) {
   targetList.appendChild(count);
   if (activities.length === 0) targetList.appendChild(error);
 
-  // Iterate activities
+  // Make list from activities
   activities.forEach(activity => {
     const li = document.createElement("li");
     targetList.appendChild(li);

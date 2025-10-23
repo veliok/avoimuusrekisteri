@@ -11,6 +11,7 @@ export function renderTargets(container) {
 
   const targetData = getTargetData();
 
+  // Add only named targets to list(persons)
   targetData.forEach(target => {
     if (target.name.length > 1) {
       const targetButton = document.createElement("button");

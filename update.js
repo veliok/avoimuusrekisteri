@@ -2,12 +2,12 @@
     update.js
     Fetch data from Finnish Transparency Register api and filter it to more web usable form.
 
-    Writes files to data/:
+    Writes files to public/data/:
     companies.json  - Every company registered in the transparency register.
     targets.json    - Every target registered, consists of personnel, departments, units, etc.                 
     activities.json - List of contact activities grouped by company.
 
-    Files home page statistics:
+    Files for homepage statistics:
     company_stats.json - Sum of topics and targets contacted by company.
     target_stats.json  - Sum of companies and topics target has been contacted by.
 */
@@ -34,17 +34,16 @@ async function update() {
   writeJson("target_stats.json", targetStats);
 }
 
-// Create data/ if it doesn't exist and write file
+// Create public/data if it doesn't exist and write file
 async function writeJson(filename, data) {
   const dir = "public/data";
+
   if (!fs.existsSync(dir)) {
     fs.mkdirSync(dir, { recursive: true });
   }
 
   const filePath = path.join(dir, filename);
   fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
-
-  console.log("File written:", filePath);
 }
 
 async function fetchEndpoint(endpoint) {
@@ -53,10 +52,8 @@ async function fetchEndpoint(endpoint) {
     const response = await fetch(url);
     if (!response.ok) { throw new Error(`Response status: ${response.status}`) };
       const data = await response.json();
-      console.log("Data downloaded for: ", endpoint);
       return data;
   } catch (error) {
-    console.error(error.message);
     return null;
   }
 }
@@ -79,12 +76,7 @@ function filterCompanyData(data) {
   parsed.sort((a, b) => {
     if (a.name < b.name) return -1;
     if (a.name > b.name) return 1;
-  })
-
-  parsed.sort((a, b) => {
-    if (a.name < b.name) return -1;
-    if (a.name > b.name) return 1;
-  })
+  });
 
   return parsed;
 }
@@ -133,14 +125,14 @@ function filterTargetData(data) {
         name: item.fi.name != "-" ? item.fi.name : ""
       })
     }
-  })
+  });
 
   const filteredArray = Array.from(persons.values());
   // Sort by surname
   filteredArray.sort((a, b) => {
     if (a.name.split(" ")[1] < b.name.split(" ")[1]) return -1;
     if (a.name.split(" ")[1] > b.name.split(" ")[1]) return 1;
-  })
+  });
   
   return filteredArray;
 }
@@ -188,7 +180,7 @@ function makeCompanyStats(data) {
     name: item.name,
     activities: item.activities.length,
     targets: item.activities.flatMap(a => a.targets || []).length
-  }))
+  }));
 
   const sorted = stats.sort((a, b) => {
     if (a.activities < b.activities) return 1;

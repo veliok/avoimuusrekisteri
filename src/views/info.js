@@ -12,8 +12,7 @@ export function renderInfo(container) {
 
   title.textContent = "Tietoa sivusta";
   desc.innerHTML = `Tämä sivusto hyödyntää Suomen <a href="https://avoimuusrekisteri.fi/" target="_blank">Avoimuusrekisterin</a>
-      avointa rajapintaa. Palvelu kokoaa rekisteristä haetut tiedot ja
-      esittää ne helposti tutkittavassa muodossa.`;
+      avointa rajapintaa. Palvelu kokoaa rekisteristä haetut tiedot.`;
   sub_title.textContent = "Kuka ylläpitää Avoimuusrekisteriä?";
   sub_desc.innerHTML = `Rekisterin ylläpidosta vastaa Valtiontalouden tarkastusvirasto (VTV). 
   Avoimuusrekisteristä säädetään avoimuusrekisterilaissa (430/2023).`;

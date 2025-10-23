@@ -1,17 +1,17 @@
 :root {
-  --bg-color: #f9f9f9;
-  --bg-color-linear: linear-gradient(180deg, #e9f3ff 0%, #e9f3ff00 100%);
-  --card-bg: #eeeeee8f;
-  --header-bg: #e9f3ff;
-  --text-color: #1b1d24; 
   --accent-color: #578ce9;
   --accent-color-light: #72a6de7f;
+  --bg-color: #f9f9f9;
+  --bg-color-linear: linear-gradient(180deg, #e9f3ff 0%, #e9f3ff00 100%);
   --border-color: #c3c3c335; 
   --border-focus: var(--accent-color);
-  --card-border-color: rgba(0, 0, 0, 0.05);
   --button-shadow: 0 3px 8px rgba(0, 0, 0, 0.08);
-  --radius: 10px;
+  --card-bg: #eeeeee8f;
+  --card-border-color: rgba(0, 0, 0, 0.05);
   --font-family: "Source Sans Pro";
+  --header-bg: #e9f3ff;
+  --radius: 10px;
+  --text-color: #1b1d24; 
 }
 
 body {
@@ -34,6 +34,17 @@ header {
   font-size: 1.2rem;
 }
 
+h1 { 
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+h2 { 
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: var(--accent-color);
+}
+
 li, ul {
   list-style-type: none;
   padding: 0px;
@@ -48,22 +59,13 @@ li {
   padding-bottom: 0.1rem;
 }
 
-h1 { 
-  font-size: 2rem;
-  font-weight: 700;
-}
-
-h2 { 
-  font-size: 1.4rem;
-  font-weight: 600;
-  color: var(--accent-color);
-}
-
 p, li {
   line-height: 1.6;
   font-size: 1rem;
 }
 
+
+/* ========== NAVIGATION ========== */
 nav a {
   color: var(--text-color);
   text-decoration: none;
@@ -75,11 +77,13 @@ nav a:hover {
   text-decoration: underline;
 }
 
+
+/* ========== BUTTONS ========== */
 button {
-  border-radius: var(--radius);
   background-color: var(--bg-color);
-  border: 2px solid var(--border-color);
   color: var(--text-color);
+  border: 2px solid var(--border-color);
+  border-radius: var(--radius);
   padding: 1rem;
   cursor: pointer;
   transition: all 0.2s;
@@ -91,6 +95,8 @@ button:hover {
   box-shadow: var(--button-shadow);
 }
 
+
+/* ========== HERO ========== */
 #hero {
   text-align: center;
   padding: 4rem 1rem 3rem;
@@ -102,15 +108,17 @@ button:hover {
   font-weight: 600;
 }
 
-/* SEARCH BAR */
+
+/* ========== SEARCH BAR ========== */
 #search {
-  position: relative;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   width: 400px;
   margin: 0 auto;
+  position: relative;
 }
+
 #search-bar {
   width: 100%;
   font-size: 1em;
@@ -121,14 +129,13 @@ button:hover {
   border: 1px solid var(--card-bg);
   border-bottom: 1px solid var(--accent-color-light);
 }
+
 #search-bar:focus {
   border-color: var(--accent-color);
   outline: none;
   box-shadow: var(--button-shadow);
 }
-#search-list:empty {
-  display: none;
-}
+
 #search-list {
   position: absolute; 
   max-height: 500px;
@@ -137,11 +144,15 @@ button:hover {
   width: 100%;
   padding: 0;
   margin: 5px;
-  background-color: var(--bg-color);
   top: 100%;
+  background-color: var(--bg-color);
   border: 1px solid var(--border-color);
   border-bottom: 1px solid var(--accent-color-light);
   border-radius: var(--radius);
+}
+
+#search-list:empty {
+  display: none;
 }
 
 #search-list li {
@@ -152,10 +163,13 @@ button:hover {
   cursor: pointer;
   background: var(--bg-color);
 }
+
 #search-list li:hover {
   border: 2px solid var(--border-focus);
 }
 
+
+/* ========== CATEGORIES ========== */
 .categories {
   display: flex;
   flex-wrap: wrap;
@@ -173,10 +187,13 @@ button:hover {
   font-size: 1rem;
   border-bottom: 1px solid var(--accent-color-light);
 }
+
 .categories button:hover{
   border-color: var(--accent-color);
 }
 
+
+/* ========== CONTENT ========== */
 .content-container {
   margin: 2rem auto;
   padding: 2rem 1rem;
@@ -218,6 +235,8 @@ button:hover {
   text-decoration: underline;
 }
 
+
+/* ========== HIGHLIGHT BOX ========== */
 #highlight-box {
   background: var(--card-bg);
   border: 1px solid var(--card-border-color);
@@ -230,6 +249,8 @@ button:hover {
   max-width: 800px;
 }
 
+
+/* ========== STATISTICS ========== */
 #statistics-container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
@@ -259,7 +280,6 @@ button:hover {
   justify-content: space-between;
   gap: 0.4rem;
   min-height: 110px;
-  transition: background 0.2s ease, transform 0.2s ease;
 }
 
 #statistics-container li h4 {
@@ -277,10 +297,13 @@ button:hover {
   margin: 0;
   word-wrap: break-word;
 }
+
 #statistics-container h2 {
   text-align: center;
 }
 
+
+/* ========== LISTS ========== */
 #target-list li {
   border-left: 1px solid var(--accent-color-light);
 }
@@ -293,6 +316,8 @@ button:hover {
   margin-top: 1rem;
 }
 
+
+/* ========== BUTTON GRID ========== */
 #button-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -316,6 +341,7 @@ button:hover {
   cursor: pointer;
   transition: all 0.2s;
 }
+
 #button-grid button:hover {
   border-color: var(--border-focus);
   color: var(--accent-color);
@@ -326,6 +352,8 @@ button, #search-bar, #search-list li {
   transition: all 0.2s ease-in-out;
 }
 
+
+/* ========== TO TOP BUTTON ========== */
 #to-top {
   position: fixed;
   display: flex;
@@ -356,7 +384,104 @@ button, #search-bar, #search-list li {
   transform: scale(1.05);
 }
 
+
+/* ========== FOOTER ========== */
 footer {
   padding-top: 5rem;
   text-align: center;
+}
+
+
+/* ========== MOBILE ========== */
+@media (max-width: 600px) {
+
+  #hero {
+    padding-top: 3rem;
+  }
+
+  #search {
+    width: 90%;
+  }
+
+  #search-bar {
+    font-size: 0.95rem;
+    height: 2.5rem;
+    padding: 0.6rem;
+  }
+
+  #search-list {
+    max-height: 300px;
+    font-size: 0.9rem;
+  }
+
+  .content-info {
+    padding: 0.5rem;
+    margin: 0;
+  }
+
+  .content-info h1{
+    padding-bottom: 0;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+  }
+
+  #statistics-container {
+    grid-template-columns: 1fr;
+    gap: 0rem;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+  }
+
+  #statistics-container li {
+    min-height: auto;
+    padding: 1rem;
+    margin: 0.5rem 0;
+  }
+
+  h1 {
+    font-size: 1.6rem;
+  }
+
+  h2 {
+    font-size: 1.2rem;
+  }
+
+  p, li {
+    font-size: 0.95rem;
+  }
+
+  .categories {
+    flex-direction: column;
+    gap: 1rem;
+    align-items: center;
+  }
+
+  .categories button {
+    width: 90%;
+  }
+
+  #button-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    padding: 0.5rem;
+  }
+
+  #to-top {
+    bottom: 2rem;
+    right: 2rem;
+    width: 40px;
+    height: 40px;
+    font-size: 1.6rem;
+  }
+
+  .content-container {
+    margin: 0rem;
+    padding: 1rem;
+  }
+
+  #highlight-box {
+    margin: 1rem auto 3rem;
+    padding: 0.8rem;
+  }
 }

@@ -9,9 +9,10 @@ export function renderHome(container) {
 
   highlight.id = "highlight-box";
 
-  description.innerHTML = `Avoimuusrekisteri tarjoaa ajantasaista tietoa Suomessa tehtävästä
-    vaikuttamistoiminnasta ja sen ilmoituksista. Sivuston avulla voit
-    tutkia, kuka vaikuttaa, missä ja kenen puolesta.`
+  description.innerHTML = `Avoimuusrekisteri kerää tietoa eduskuntaan ja ministeriöihin kohdistuvasta vaikuttamistyöstä.
+  Tällä sivustolla voit tutkia avoimuusrekisterin tietoja helposti luettavassa muodossa.<br><br>
+  <b>Vaikuttamiskohteet</b> on lista eduskunnan ja ministeriöiden henkilöstöstä.<br>
+  <b>Vaikuttajat</b> on lista avoimuusrekisteriin rekisteröityneistä organisaatioista.<br>`
 
   highlight.appendChild(description);
   section.appendChild(highlight);
