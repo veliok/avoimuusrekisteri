@@ -80,5 +80,5 @@ function search(event) {
       searchBar.value = "";
     })
     searchResult.appendChild(li);
-  }
+  };
 }

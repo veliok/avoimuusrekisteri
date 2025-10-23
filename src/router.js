@@ -35,13 +35,13 @@ function changeView() {
     // Hide hero in info view
     if (route.path == "#info") document.querySelector("#hero").style.display = "none";
     else document.querySelector("#hero").style.display = "block";
-  }
+  };
 }
 
 function clearView(container) {
   while (container.firstChild) {
     container.removeChild(container.firstChild);
-  }
+  };
 }
 
 function getRoute(hash) {
@@ -53,5 +53,5 @@ function getRoute(hash) {
     if (route.path === hash) {
       return { ...route, params: id }
     }
-  }
+  };
 }
