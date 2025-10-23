@@ -1,0 +1,42 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Avoimuusrekisteri</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="description" content="Tutki Suomen avoimuusrekisterin dataa.">
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght@400" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+  <script type="module" src="main.js"></script>
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="#home" id="nav-home">Etusivu</a>
+      <a href="#info" id="nav-info">Tietoa</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="hero">
+      <div id="search">
+        <input id="search-bar" type="text" placeholder="Etsi henkilön nimellä" autocomplete="off">
+        <ul id="search-list"></ul>
+      </div>
+
+      <h3>Selaa kategorioita</h3>
+      <div class="categories">
+        <button data-route="#targets">Vaikuttamiskohteet</button>
+        <button data-route="#companies">Vaikuttajat</button>
+      </div>
+    </section>
+
+    <div class="content-container" id="content-container"></div> 
+
+  </main>
+  <button id="to-top" aria-label="Back to top">
+  <span class="material-symbols-outlined">arrow_upward</span>
+</button>
+</body>
+</html>
