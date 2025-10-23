@@ -81,6 +81,11 @@ function filterCompanyData(data) {
     if (a.name > b.name) return 1;
   })
 
+  parsed.sort((a, b) => {
+    if (a.name < b.name) return -1;
+    if (a.name > b.name) return 1;
+  })
+
   return parsed;
 }
 
@@ -121,11 +126,11 @@ function filterTargetData(data) {
     } else {  // Add targets without name - units, departments etc.
       persons.set(item.id, {
         id: item.id,
-        organization: item.fi.organization != "-" ? [item.fi.organization] : null,
-        department: item.fi.department != "-" ? [item.fi.department] : null,
-        unit: item.fi.unit != "-" ? [item.fi.unit] : null,
-        title: item.fi.title != "-" ? [item.fi.title] : null,
-        name: item.fi.name
+        organization: item.fi.organization != "-" ? item.fi.organization : "",
+        department: item.fi.department != "-" ? item.fi.department : "",
+        unit: item.fi.unit != "-" ? item.fi.unit : "",
+        title: item.fi.title != "-" ? item.fi.title : "",
+        name: item.fi.name != "-" ? item.fi.name : ""
       })
     }
   })
