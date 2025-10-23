@@ -36,7 +36,7 @@ async function update() {
 
 // Create data/ if it doesn't exist and write file
 async function writeJson(filename, data) {
-  const dir = "data";
+  const dir = "public/data";
   if (!fs.existsSync(dir)) {
     fs.mkdirSync(dir, { recursive: true });
   }
@@ -68,7 +68,18 @@ function filterCompanyData(data) {
     name: item.companyName?.split(/\s-\s|(?<!-),|;/)[0].trim() || null,
     industry: item.mainIndustry,
     description: item.description,
-  }))
+    auxiliary: item.supplementaryCompanyNames?.map(a =>
+      a.title.split(/\s-\s|(?<!-),|;/)[0].trim()
+    ) || [],
+    membership: item.memberships?.map(m =>
+      m.title.split(/\s-\s|(?<!-),|;/)[0].trim()
+    ) || []
+  }));
+
+  parsed.sort((a, b) => {
+    if (a.name < b.name) return -1;
+    if (a.name > b.name) return 1;
+  })
 
   parsed.sort((a, b) => {
     if (a.name < b.name) return -1;
@@ -158,9 +169,10 @@ function filterActivityData(data) {
       if (topic.contactedTargets.length > 0) {
         company.activities.push({
           date: item.activityNotificationDate || item.createdAt || null,
+          customer: topic?.customerCompanyName || null,
           topic: topic.contactTopicOther || null,
           project: topic.contactTopicProject?.fi || topic.contactTopicProject?.en || null,
-          targets: (topic.contactedTargets).map(t => t.contactedTargetId)
+          targets: (topic.contactedTargets).map(t => t.contactedTargetId),
         });
       }
     });
