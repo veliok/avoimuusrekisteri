@@ -1,15 +1,15 @@
 /*
-  update.js
-  Fetch data from Finnish Transparency Register api and filter it to more web usable form.
+    update.js
+    Fetch data from Finnish Transparency Register api and filter it to more web usable form.
 
-  Writes files to data/:
-  companies.json  - Every company registered in the transparency register
-  targets.json    - Every target registered, consists of personnel, departments, units, etc.                 
-  activities.json - List of contact activities grouped by company.
+    Writes files to data/:
+    companies.json  - Every company registered in the transparency register.
+    targets.json    - Every target registered, consists of personnel, departments, units, etc.                 
+    activities.json - List of contact activities grouped by company.
 
-  Files for fast statistics:
-  company_stats.json - Num of topics and contacted targets by company
-  target_stats.json  - Num of companies and topics target has been contacted by
+    Files home page statistics:
+    company_stats.json - Sum of topics and targets contacted by company.
+    target_stats.json  - Sum of companies and topics target has been contacted by.
 */
 import * as fs from "fs"
 import * as path from "path"
@@ -34,11 +34,11 @@ async function update() {
   writeJson("target_stats.json", targetStats);
 }
 
-// Creates data/ if it doesn't exists and writes file
+// Create data/ if it doesn't exist and write file
 async function writeJson(filename, data) {
   const dir = "data";
   if (!fs.existsSync(dir)) {
-    fs.mkdirSync(dir, {recursive: true });
+    fs.mkdirSync(dir, { recursive: true });
   }
 
   const filePath = path.join(dir, filename);
@@ -70,11 +70,16 @@ function filterCompanyData(data) {
     description: item.description,
   }))
 
+  parsed.sort((a, b) => {
+    if (a.name < b.name) return -1;
+    if (a.name > b.name) return 1;
+  })
+
   return parsed;
 }
 
 // Group ids by target name and sort by name
-// Data from api is structured in way that one person has multiple different ids...
+// Data from api is structured in way that one person has multiple different ids.
 function filterTargetData(data) {
   const persons = new Map();
 
@@ -83,29 +88,47 @@ function filterTargetData(data) {
       if (!persons.has(item.fi.name)) {
         persons.set(item.fi.name, {
           id: [item.id],
-          organization: item.fi.organization,
-          department: item.fi.department,
-          unit: item.fi.unit,
+          organization: item.fi.organization != "-" ? [item.fi.organization] : [],
+          department: item.fi.department != "-" ? [item.fi.department] : [],
+          unit: item.fi.unit != "-" ? [item.fi.unit] : [],
+          title: item.fi.title != "-" ? [item.fi.title] : [],
           name: item.fi.name
         });
       } else {
-        persons.get(item.fi.name).id.push(item.id);
+        const person = persons.get(item.fi.name);
+
+        // Add organizations, departments, units and titles only once
+        person.id.push(item.id);
+        if (item.fi.organization != "-" && !person.organization.includes(item.fi.organization)) {
+          person.organization.push(item.fi.organization);
+        }
+        if (item.fi.department != "-" && !person.department.includes(item.fi.department)) {
+          person.department.push(item.fi.department);
+        }
+        if (item.fi.title != "-" && !person.title.includes(item.fi.title)) {
+          person.title.push(item.fi.title);
+        }
+        if (item.fi.unit != "-" && !person.unit.includes(item.fi.unit)) {
+          person.unit.push(item.fi.unit);
+        }
       }  
     } else {  // Add targets without name - units, departments etc.
       persons.set(item.id, {
         id: item.id,
-        organization: item.fi.organization,
-        department: item.fi.department,
-        unit: item.fi.unit,
-        name: item.fi.name
+        organization: item.fi.organization != "-" ? item.fi.organization : "",
+        department: item.fi.department != "-" ? item.fi.department : "",
+        unit: item.fi.unit != "-" ? item.fi.unit : "",
+        title: item.fi.title != "-" ? item.fi.title : "",
+        name: item.fi.name != "-" ? item.fi.name : ""
       })
     }
   })
 
   const filteredArray = Array.from(persons.values());
+  // Sort by surname
   filteredArray.sort((a, b) => {
-    if (a.name < b.name) return -1;
-    if (a.name > b.name) return 1;
+    if (a.name.split(" ")[1] < b.name.split(" ")[1]) return -1;
+    if (a.name.split(" ")[1] > b.name.split(" ")[1]) return 1;
   })
   
   return filteredArray;
