@@ -13241,7 +13241,7 @@
       {
         "date": "2025-08-31",
         "customer": null,
-        "topic": "Rakentamisen uusi aika -vaalipaneeli Viherpäivillä Jyväskylässä. Tavoittelimme kansanedustajia paneeliimme keskustelemaan luontopohjaisista tavoista rakentaa kaupunkeja. Paneeli järjestettiin 6.2.2025, ja siihen lopulta osallistuivat kansanedustajat Petri Honkonen ja Suna Kymäläinen sekä Jyväskylästä Juha Suonperä. Ilmoitukselle listattu kansanedustajat, joita pyydetty paneeliin osallistujiksi. Lisäksi sama pyyntö on välitetty ko. edustajien avustajille.",
+        "topic": "Rakentamisen uusi aika -vaalipaneeli Viherpäivillä Jyväskylässä. Tavoittelimme kansanedustajia paneeliimme keskustelemaan luontopohjaisista tavoista rakentaa kaupunkeja. Paneeli järjestettiin 6.2.2025, ja siihen lopulta osallistuivat kansanedustajat Petri Honkonen ja Suna Kymäläinen. Ilmoitukselle listattu kansanedustajat, joita pyydetty paneeliin osallistujiksi. Lisäksi sama pyyntö on välitetty ko. edustajien avustajille.",
         "project": null,
         "targets": [
           2726,
@@ -13259,7 +13259,7 @@
       {
         "date": "2025-08-31",
         "customer": null,
-        "topic": "Hyvinvointi rakentuu elävässä ympäristössä -viestintäkampanjan tiedoksituonti Ympäristöministeriön kestävä rakentaminen ja asmuinen osastolle. Tiedotettu sähköpostitse kampanjan aloittamisesta vuonna 2026. Tiedottaminen on tehty Viherympäristöliiton ja Ympäristöministeriön yhteistyön hengessä ja saattaen tiedoksi, että kampanja samaa nimeä vuonna 2023 suunnitellun Vihervuoden toimintasuunnitelman kanssa, mutta toteutustapa on erilainen ja ministeriöstä riippumaton. Sähköposti lähetetty henkilöille Samuli Alppi, Mika Ristimäki ja Taru Sihvonen.",
+        "topic": "Hyvinvointi rakentuu elävässä ympäristössä -viestintäkampanjan tiedoksituonti Ympäristöministeriön kestävä rakentaminen ja asuminen osastolle. Tiedotettu sähköpostitse kampanjan aloittamisesta vuonna 2026. Tiedottaminen on tehty Viherympäristöliiton ja Ympäristöministeriön yhteistyön hengessä ja saattaen tiedoksi, että kampanja samaa nimeä vuonna 2023 suunnitellun Vihervuoden toimintasuunnitelman kanssa, mutta toteutustapa on erilainen ja ministeriöstä riippumaton.",
         "project": null,
         "targets": [
           2970
@@ -25006,8 +25006,8 @@
         "topic": null,
         "project": "Hallituksen esitys eduskunnalle laiksi rakentamislain muuttamisesta ja eräiksi siihen liittyviksi laeiksi",
         "targets": [
-          2908,
-          2910
+          2910,
+          2908
         ]
       },
       {
@@ -26525,6 +26525,7 @@
         "topic": "Työperäisen maahanmuuton helpottaminen, työvoiman liikkuvuuden varmistaminen ja sosiaaliturva (Puoliväliriihen tavoitteet)",
         "project": null,
         "targets": [
+          3004,
           2758,
           2584,
           2791,
@@ -26534,7 +26535,6 @@
           2583,
           2646,
           2476,
-          3004,
           2669,
           2910,
           2999,
@@ -26752,7 +26752,7 @@
       {
         "date": "2025-08-29",
         "customer": null,
-        "topic": "E-kirjelmäluonnos: Artificial Intelligence Continent Action Plan",
+        "topic": "E-kirjelmäluonnos:  Tekoälyä koskeva toimintasuunnitelma",
         "project": null,
         "targets": [
           2488
@@ -33490,7 +33490,7 @@
       {
         "date": "2025-08-29",
         "customer": null,
-        "topic": "Discussion about the funding for the NRTP network.",
+        "topic": "Keskustelu uskonnollisten ja perinteisten rauhantoimijoiden verkoston rahoituksesta.",
         "project": null,
         "targets": [
           2851
@@ -33499,7 +33499,7 @@
       {
         "date": "2025-08-29",
         "customer": null,
-        "topic": "Meeting to discuss the situation in Central African Republic.",
+        "topic": "Tapaaminen, jossa keskusteltiin Keski-Afrikan tasavallan tilanteesta.",
         "project": null,
         "targets": [
           2500
@@ -33548,7 +33548,7 @@
       {
         "date": "2025-08-29",
         "customer": null,
-        "topic": "Representation event hosted by Chair of FCA Board in honor of the Director of Development & International Cooperation during his visit to Helsinki for the Education In Emergencies conference.",
+        "topic": "Koulutus katastrofeissa - konferenssin tapahtuma, joka järjestettiin Helsingin yliopistolla yhdessä Kirkon Ulkomaanavun kanssa 2025 toukokuussa.",
         "project": null,
         "targets": [
           2381,
@@ -38901,7 +38901,7 @@
       {
         "date": "2025-08-29",
         "customer": "Lockheed Martin Global, Inc. sivuliike Suomessa",
-        "topic": "Defence Cooperation Agreement (DCA) with the United States",
+        "topic": "Puolustusyhteistyösopimus Yhdysvaltain kanssa (DCA)",
         "project": null,
         "targets": [
           2541
@@ -49788,7 +49788,7 @@
       {
         "date": "2025-08-29",
         "customer": null,
-        "topic": "Global and regional security situation: Finnish NORDEFCO Chairmanship; Nordic co-operation",
+        "topic": "Globaali ja alueellinen turvallisuustilanne: Suomen NORDEFCO-puheenjohtajuus; pohjoismainen yhteistyö",
         "project": null,
         "targets": [
           2538,
@@ -49800,7 +49800,7 @@
       {
         "date": "2025-08-29",
         "customer": null,
-        "topic": "Finland's F-35 program and Finland's defence materiel policy and strategy",
+        "topic": "Suomen F-35-hanke sekä Suomen puolustusmateriaalipolitiikka ja -strategia",
         "project": null,
         "targets": [
           2526
@@ -49809,7 +49809,7 @@
       {
         "date": "2025-08-29",
         "customer": null,
-        "topic": "Defence Cooperation Agreement (DCA) with the United States",
+        "topic": "Puolustusyhteistyösopimus (DCA) Yhdysvaltojen kanssa",
         "project": null,
         "targets": [
           2541
@@ -49818,7 +49818,7 @@
       {
         "date": "2025-02-27",
         "customer": null,
-        "topic": "Global and regional security situation: Nordic co-operation, importance of long-term view on defence and sustainment",
+        "topic": "Globaali ja alueellinen turvallisuustilanne: Pohjoismainen yhteistyö, pitkän aikavälin suunnittelun tärkeys puolustuksessa ja huollossa",
         "project": null,
         "targets": [
           771,
@@ -49833,7 +49833,7 @@
       {
         "date": "2025-02-27",
         "customer": null,
-        "topic": "Finland's F-35 program and Finland's defence materiel policy and strategy",
+        "topic": "Suomen F-35-hanke sekä Suomen puolustusmateriaalipolitiikka ja -strategia",
         "project": null,
         "targets": [
           1055,
@@ -49844,7 +49844,7 @@
       {
         "date": "2025-02-27",
         "customer": null,
-        "topic": "Defence Cooperation Agreement (DCA) with the United States",
+        "topic": "Puolustusyhteistyösopimus (DCA) Yhdysvaltojen kanssa",
         "project": null,
         "targets": [
           1070
@@ -49853,7 +49853,7 @@
       {
         "date": "2024-08-30",
         "customer": null,
-        "topic": "Global and regional security situation: Nordic co-operation, importance of long-term view on defence and sustainment",
+        "topic": "Globaali ja alueellinen turvallisuustilanne: Pohjoismainen yhteistyö, pitkän aikavälin suunnittelun tärkeys puolustuksessa ja huollossa",
         "project": null,
         "targets": [
           88,
@@ -49865,7 +49865,7 @@
       {
         "date": "2024-08-30",
         "customer": null,
-        "topic": "Development of space domain and technical capabilities available, growing role of space",
+        "topic": "Avaruusalueen ja käytettävissä olevien teknisten valmiuksien kehittäminen, avaruuden kasvava merkitys",
         "project": null,
         "targets": [
           76,
@@ -49875,7 +49875,7 @@
       {
         "date": "2024-08-30",
         "customer": null,
-        "topic": "Finland's F-35 program and Finland's defence materiel policy and strategy",
+        "topic": "Suomen F-35-hanke sekä Suomen puolustusmateriaalipolitiikka ja -strategia",
         "project": null,
         "targets": [
           358,
@@ -87568,25 +87568,7 @@
       {
         "date": "2025-08-28",
         "customer": null,
-        "topic": "Useita tapaamisia Digipaneelin myötä. Neogamesin edustaja nimettiin Digipaneeliin viime syksynä.",
-        "project": null,
-        "targets": [
-          2511
-        ]
-      },
-      {
-        "date": "2025-08-28",
-        "customer": null,
         "topic": "Osallistuminen ministeriön järjestämään kuulemiseen, aiheena EU-rahoitus ja uusi ohjelmakausi.",
-        "project": null,
-        "targets": [
-          2511
-        ]
-      },
-      {
-        "date": "2025-08-28",
-        "customer": null,
-        "topic": "Useita Luovan talouden neuvottelukunnan tapaamisia. Neogamesin edustaja on toinen pelialan edustajista neuvottelukunnassa.",
         "project": null,
         "targets": [
           2511
@@ -109368,7 +109350,7 @@
       {
         "date": "2025-08-27",
         "customer": null,
-        "topic": "EU: Revision of the CO2 emission standards for cars and vans",
+        "topic": "EU: Henkilö- ja pakettiautojen Co2-raja-arvoasetus",
         "project": null,
         "targets": [
           2396,
@@ -129846,7 +129828,7 @@
       {
         "date": "2025-08-26",
         "customer": null,
-        "topic": "World Health Assembly Lung Cancer Round Table in Geneva",
+        "topic": "Pyöreän pöydän keskustelu keuhkosyövästä Genevassa World Health Assembly -tapahtumassa.",
         "project": null,
         "targets": [
           2582,
@@ -144320,7 +144302,7 @@
       {
         "date": "2025-08-22",
         "customer": null,
-        "topic": "Amcham Finland advocates for strategic cooperation and partnership with the United States. Amcham promotes the U.S. as a source of long-term investment to Finland and as a productive market for Finnish companies expanding abroad. Amcham fosters long term transatlantic ties through diverse networks and best practice programs.",
+        "topic": "Amcham Finland ajaa strategista yhteistyötä ja kumppanuutta Yhdysvaltain kanssa. Amcham edistää Yhdysvaltoja pitkäaikaisten investointien lähteenä Suomeen ja tuottavana markkina-alueena ulkomaille laajentuville suomalaisille yrityksille. Amcham ylläpitää pitkäaikaisia ​​transatlanttisia suhteita monipuolisten verkostojen ja parhaiden käytäntöjen ohjelmien kautta.",
         "project": null,
         "targets": [
           2827,
@@ -144332,7 +144314,7 @@
       {
         "date": "2025-08-22",
         "customer": null,
-        "topic": "Amcham promotes the voice of international business in Finland and fosters longterm transatlantic ties through diverse networks and cross-industry best practice programs. Amcham Finland fosters innovation, business development, and sustainable partnerships. Our programs offer platforms for business to understand policy changes and opportunities for public-private sector collaboration. We promote Finland's economic prosperity by assisting Finnish companies to succeed in the U.S. and helping American and other international/global companies to thrive and grow their investments in Finland.",
+        "topic": "Amcham Finland on kansainvälisen liiketoiminnan ääni ja transatlanttisten suhteiden rakentaja. Edistämme Suomen taloudellista menestystä auttamalla suomalaisyrityksiä Yhdysvaltain markkinoilla ja tukemalla kansainvälisten yritysten investointeja Suomeen. Tarjoamme alustan verkostoitumiselle, innovaatioille ja poliittisen toimintaympäristön ymmärtämiselle. Tavoitteenamme on kestävä kasvu ja vahva julkisen sekä yksityisen sektorin yhteistyö.",
         "project": null,
         "targets": [
           2675,
@@ -144347,7 +144329,7 @@
       {
         "date": "2025-08-22",
         "customer": null,
-        "topic": "Amcham Finland advocates for the value and positive impact of foreign direct investment (FDI) to Finland, as a vehicle for long-term economic growth. Amcham also advocates for the fair and equal treatment of foreign affiliates in Finland. Amcham's FDI Vision was published in 2021 and is available to the public. Amcham's advocacy around FDI has been focused on the first stage of the roadmap published in the Vision: \"FDI requires an open mindset.\"",
+        "topic": "Amcham Finland ajaa ulkomaisten suorien sijoitusten (FDI) arvoa ja myönteisiä vaikutuksia Suomeen pitkän aikavälin talouskasvun välineenä. Amcham ajaa myös ulkomaisten tytäryhtiöiden oikeudenmukaista ja tasapuolista kohtelua Suomessa. Amchamin FDI-visio julkaistiin vuonna 2021, ja se on julkisesti nähtävillä. Amchamin edunvalvonta suorien sijoitusten suhteen on keskittynyt visiossa julkaistun etenemissuunnitelman ensimmäiseen vaiheeseen: \"FDI vaatii avointa ajattelutapaa\".",
         "project": null,
         "targets": [
           2787,

@@ -318,12 +318,6 @@
     "targets": 92
   },
   {
-    "id": "2500134-1",
-    "name": "Neogames Finland ry",
-    "activities": 43,
-    "targets": 264
-  },
-  {
     "id": "0202176-1",
     "name": "Suomen Kuljetus ja Logistiikka SKAL ry",
     "activities": 43,
@@ -358,6 +352,12 @@
     "name": "Nordea Bank Abp",
     "activities": 41,
     "targets": 147
+  },
+  {
+    "id": "2500134-1",
+    "name": "Neogames Finland ry",
+    "activities": 41,
+    "targets": 262
   },
   {
     "id": "0116510-6",
