@@ -2,6 +2,7 @@ import { initRouter } from "./router.js";
 
 let targetData = [], companyData = [], activityData = [],
     companyStats = [], targetStats = [];
+const baseUrl = "https://raw.githubusercontent.com/veliok/avoimuusrekisteri/main/public/data/"
 
 export function getTargetData() { return targetData };
 export function getCompanyData() { return companyData };
@@ -13,11 +14,11 @@ document.addEventListener("DOMContentLoaded", onLoad);
 
 async function onLoad() {
   [targetData, activityData, companyData, companyStats, targetStats] = await Promise.all([
-    readJSON("data/targets.json"),
-    readJSON("data/activities.json"),
-    readJSON("data/companies.json"),
-    readJSON("data/company_stats.json"),
-    readJSON("data/target_stats.json"),
+    readJSON(baseUrl + "targets.json"),
+    readJSON(baseUrl + "activities.json"),
+    readJSON(baseUrl + "companies.json"),
+    readJSON(baseUrl + "company_stats.json"),
+    readJSON(baseUrl + "target_stats.json"),
   ]);
 
   initRouter();
