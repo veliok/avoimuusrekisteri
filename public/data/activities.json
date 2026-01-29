@@ -1,5 +1,207 @@
 [
   {
+    "companyId": "3431646-8",
+    "otherCompanyId": null,
+    "name": "Bucket Agency Oy",
+    "activities": [
+      {
+        "date": "2025-11-10",
+        "customer": "Bucket Agency Oy",
+        "topic": "Kespron kampanja: ravintola-alan toimintaedellytysten parantaminen.\n\nKeskustelukutsuja valtakunnallisesti käytyihin keskusteluihin ravintola-alan tulevaisuudesta päättäjien ja eri alueiden ravintoloitsijoiden kanssa. Keskustelutilaisuudet käytiin Kespron fasilitoimina päättäjien ja paikallisten ravintoloitsijoiden välillä, ja niissä keskusteltiin alueen ravintoloitsijoiden ja päättäjien ravintolakulttuuriin liittyvistä huomioista, alan haasteista ja mahdollisuuksista.",
+        "project": null,
+        "targets": [
+          2309,
+          3762,
+          2336,
+          2323,
+          2318,
+          2718,
+          2667,
+          2758
+        ]
+      }
+    ]
+  },
+  {
+    "companyId": "2622599-6",
+    "otherCompanyId": null,
+    "name": "Eolus Finland Oy",
+    "activities": [
+      {
+        "date": "2025-10-30",
+        "customer": null,
+        "topic": "Vihreän siirtymän ja merituulivoiman luomat mahdollisuudet Satakunnalle. Painotimme merituulivoiman keskeistä roolia esimerkiksi uusien teollisten investointien syntymisessä maakunnassa.",
+        "project": null,
+        "targets": [
+          2293,
+          2735,
+          2324
+        ]
+      },
+      {
+        "date": "2025-10-30",
+        "customer": null,
+        "topic": "Suomen talousvyöhykkeelle sijoittuvaa merituulivoimaa koskevaan asetushankkeeseen (VN/2058/2025) vaikuttaminen, lisätietojen kerääminen hankkeesta sekä vaikuttamiskohteiden informointi Eoluksen merituulivoimasuunnitelmista. Eoluksen tavoitteena on, että talousvyöhykkeen merituulivoimalle luodaan hankekehityksen kannalta mahdollisimman kannustava lainsäädännöllinen ympäristö.",
+        "project": null,
+        "targets": [
+          2389,
+          2293,
+          2735,
+          2324,
+          2486,
+          2972
+        ]
+      },
+      {
+        "date": "2025-01-14",
+        "customer": null,
+        "topic": "Merituulivoima talousvyöhykkeellä. Viestimme koskien talousvyöhykkeen merituulivoimalakia: 1) Ilmoitetusta aikataulusta tulee pitää kiinni, jotta epävarmuus ei pitkity. 2) Alueiden valinnassa ja kilpailutusten järjestyksessä tulee painottaa jo kehitettyjä alueita. 3) Laadullisille kriteereille tulee antaa kilpailutuksissa suuri painoarvo. Jo tehdyn hankekehityksen huomioiminen kriteereissä edistää hankkeiden toteutumista.",
+        "project": null,
+        "targets": [
+          1390,
+          1392
+        ]
+      },
+      {
+        "date": "2025-01-14",
+        "customer": null,
+        "topic": "Merituulivoima talousvyöhykkeellä: 1) Alueet, joissa on pidemmälle edenneitä hankkeita, tulisi kilpailuttaa ensin. 2) Ympäristövaikutusten arviointiin (YVA) asti edennyt hankekehitystyö tulisi huomioida kilpailutuksessa. YVA-vaiheeseen etenemisen ansiosta näillä hankkeilla on merkittävä etumatka hankekehityksessä ja arvokasta tietoa alueiden luonnosta ja olosuhteista. 3) Kilpailutuksessa tulisi olla mukana yhdellä kertaa useampi alue. Koska vain osa hankkeista osoittautuu tutkimusten perusteella lopulta toteuttamiskelpoiseksi, on järkevää kilpailuttaa useampi alue kerrallaan.",
+        "project": null,
+        "targets": [
+          774,
+          1433,
+          852,
+          886,
+          921,
+          767,
+          831,
+          783,
+          777,
+          879,
+          1434
+        ]
+      },
+      {
+        "date": "2025-01-14",
+        "customer": null,
+        "topic": "Merituulivoima talousvyöhykkeellä: 1) Päivitimme Eoluksen merituulivoimahankkeiden tilannetta. 2) Korostimme aluevalintojen tärkeyttä merituulivoima-alueiden kilpailutuksissa ja toimme esiin Satakunnan potentiaalin Suomen merituulivoiman keskittymänä. 3) Puhuimme markkinaehtoiseen merituulivoiman kehittämiseen liittyvistä haasteista.",
+        "project": null,
+        "targets": [
+          741
+        ]
+      },
+      {
+        "date": "2025-01-14",
+        "customer": null,
+        "topic": "Merituulivoima talousvyöhykkeellä: 1) Alueet, joissa on pidemmälle edenneitä hankkeita, tulisi kilpailuttaa ensin. 2) Ympäristövaikutusten arviointiin (YVA) asti edennyt hankekehitystyö tulisi huomioida kilpailutuksessa. YVA-vaiheeseen etenemisen ansiosta näillä hankkeilla on merkittävä etumatka hankekehityksessä ja arvokasta tietoa alueiden luonnosta ja olosuhteista. 3) Kilpailutuksessa tulisi olla mukana yhdellä kertaa useampi alue, koska vain osa hankkeista osoittautuu tutkimusten perusteella lopulta markkinaehtoisesti toteuttamiskelpoiseksi.",
+        "project": null,
+        "targets": [
+          871
+        ]
+      },
+      {
+        "date": "2025-01-14",
+        "customer": null,
+        "topic": "Merituulivoima talousvyöhykkeellä: 1) Hallituksen esitystä tulee edistää mahdollisimman nopeasti ja jouduttaa ehdotetun lain nojalla annettavan valtioneuvoston asetuksen valmistelua. 2) Kilpailutuksen laadullisissa kriteereissä tulisi huomioida myös aiemman lainsäädännön puitteissa tehty hankekehitystyö ja hankealueen tuntemus. 3) Kilpailutuksessa tulisi kilpailuttaa kerralla useita alueita. 4) Osallistumismaksujen ja edistämisvakuuksien tasot tulisi pitää maltillisina. Lisäksi keskustelimme maatuulivoiman etäisyysvaatimuksesta.",
+        "project": null,
+        "targets": [
+          759
+        ]
+      },
+      {
+        "date": "2024-08-23",
+        "customer": null,
+        "topic": null,
+        "project": "Hallituksen esitys eduskunnalle laiksi merituulivoimasta talousvyöhykkeellä",
+        "targets": [
+          122,
+          114,
+          98,
+          68,
+          64,
+          32,
+          105,
+          256,
+          219,
+          453,
+          644,
+          643,
+          461,
+          162
+        ]
+      },
+      {
+        "date": "2024-08-23",
+        "customer": null,
+        "topic": "Merituulivoimahankkeiden hyödyntämisoikeushakemukset Suomen talousvyöhykkeellä. Eoluksen pääviesti: Merituulivoimahankkeiden eteneminen viivytyksittä tukee vetyteollisuuteen suunniteltuja investointeja. Hyödyntämislupien hyväksyntä pidemmälle kehitetyille hankkeille edistäisi merkittävästi vihreää siirtymää ja Suomen päästötavoitteiden saavuttamista.",
+        "project": null,
+        "targets": [
+          681
+        ]
+      },
+      {
+        "date": "2024-08-23",
+        "customer": null,
+        "topic": "Merituulivoimahankkeet Suomen talousvyöhykkeellä. Eoluksen pääviestit koskien valmisteilla olevaa lainsäädäntöä: 1) Hankealueiden kilpailutusaikataulua tulisi nopeuttaa, jotta merituulivoimahankkeet pääsisivät nopeammin liikkeelle. 2) Kilpailutuksessa pidemmälle hankkeidensa kanssa edenneiden toimijoiden tulisi saada etusija kehittämiinsä alueisiin. 3) Yhdellä kertaa tulisi kilpailuttaa useita hankealueita ja alueet, joissa on pidemmälle edenneitä hankkeita, tulisi kilpailuttaa ensin. 4) Lakiehdotuksessa hahmoteltua prosessia tulisi tehdä hanketoimijoiden näkökulmasta houkuttelevammaksi.",
+        "project": null,
+        "targets": [
+          162,
+          212,
+          177
+        ]
+      }
+    ]
+  },
+  {
+    "companyId": "0200118-9",
+    "otherCompanyId": null,
+    "name": "Suomen Sairaanhoitajat ry",
+    "activities": [
+      {
+        "date": "2025-10-28",
+        "customer": null,
+        "topic": "Hoitotyön johtamisen kirjaaminen lakiin, luonnosteltu lakimuutoksia, keskusteltu hoitotyön johtamisen asemasta ja pyritty saamaan lakialoite hoitotyön johtamisen kirjaamisesta lakiin.",
+        "project": null,
+        "targets": [
+          2329,
+          2692,
+          2685,
+          2987,
+          2592
+        ]
+      },
+      {
+        "date": "2025-10-28",
+        "customer": null,
+        "topic": "Sairaanhoitajien kansainvälinen rekrytointi. Pyritty edistämään bilateraalisopimusten neuvottelujen käynnistymistä kohdemaiden kanssa, lainsäädännöllisiä valmisteluita sekä kansallista säätelyä kansainväliseen eettisesti kestävään rekrytointiin liittyen.",
+        "project": null,
+        "targets": [
+          2476
+        ]
+      },
+      {
+        "date": "2025-10-28",
+        "customer": null,
+        "topic": "Omasairaanhoitajamallin vahvistaminen perusterveydenhuollossa. Omalääkärimallin sijasta tarvitaan vahva hoidon jatkuvuusmalli, jossa kaikkien asiantuntijoiden rooleja kehitetään asiakkaiden ja potilaiden parhaaksi.",
+        "project": null,
+        "targets": [
+          2692,
+          2329,
+          2590
+        ]
+      },
+      {
+        "date": "2025-10-28",
+        "customer": null,
+        "topic": "Kannanotto sairaanhoitajan vastuut, erikoistumis- ja laajavastuinen koulutus säädettävä laissa.",
+        "project": null,
+        "targets": [
+          3027
+        ]
+      }
+    ]
+  },
+  {
     "companyId": "3261019-6",
     "otherCompanyId": null,
     "name": "United Imaginations Oy",
@@ -6297,212 +6499,13 @@
       {
         "date": "2025-08-31",
         "customer": null,
-        "topic": "Eduskunnan suuntaan kohdistetut vaikuttamistoimet; valiokunnat ja kansanedustajat.",
+        "topic": "Suomen hallituksen puoliväliriiheen vaikuttaminen taloudellisten leikkausten välttämiseksi",
         "project": null,
         "targets": [
           2274,
           2284,
           2754,
           2702
-        ]
-      },
-      {
-        "date": "2025-02-24",
-        "customer": null,
-        "topic": "Vaikuttajapaneeli VST-päivillä Helsingissä 30.8.2024, jossa mukana panelistit Eva Biaudet, kansanedustaja (RKP), Natalie Gerbert, johtaja Monika-naiset (ETNO), Mari Holopainen, tutkija-opettaja Aalto-yliopisto, kaupunginvaltuutettu (Vihreät), Heljä Misukka, johtaja-yrittäjä (LovEdu), Taina Vallander, yhteiskuntavaikuttamisen johtaja (STTK). Vaikuttajapaneelin moderaattorina toimi Vapaa Sivistystyö ry:n puheenjohtaja Björn Wallén.",
-        "project": null,
-        "targets": [
-          850
-        ]
-      },
-      {
-        "date": "2025-02-24",
-        "customer": null,
-        "topic": "Opetus- ja kulttuuriministerin Anders Adlercreutzin tapaaminen 8.10.2024 OKM:n tiloissa. Mukana VST ry:n hallituksen edustajat ja aiheena vapaan sivistystyön ajankohtaiset asiat.",
-        "project": null,
-        "targets": [
-          998,
-          1005
-        ]
-      },
-      {
-        "date": "2025-02-24",
-        "customer": null,
-        "topic": "Hyvä valtiovarainvaliokunnan jäsen,\n\nOhessa vapaan sivistystyön yhteinen kannanotto VM:n talousarvioesityksestä 2025.\nPyydämme ottamaan huomioon kansallisen sivistystyön kannanotossa olevat linjaukset talousarvion jatkokäsittelyssä.\n\nParhain yhteistyöterveisin,\n\nBjörn Wallén, puheenjohtaja Vapaa Sivistystyö ry, Fritt Bildningsarbete",
-        "project": null,
-        "targets": [
-          777
-        ]
-      },
-      {
-        "date": "2025-02-24",
-        "customer": null,
-        "topic": "SIVISTYSBAROMETRI 2024-KYSELYTUTKIMUKSEN JULKKARIT\nAika ja paikka: torstaina 7.11.2024 klo 10-12, Pikku Parlamentin Kansalaisinfo\n \nklo. 10: Kahvi- ja teetarjoilu\nklo. 10.30 Tilaisuuden avaus, VST ry:n puheenjohtaja Björn Wallén. \nklo. 10.40  E2 Tutkimuksen Karina Jutila esittelee Sivistysbarometri 2024-kyselytutkimuksen keskeisiä tuloksia.\nklo. 11.10 -11.40 Vaikuttajapaneeli: keskustelua Sivistysbarometrin keskeisistä tuloksista. Karina Jutila, kansanedustajat Mikko Ollikainen (RKP), Eeva-Johanna Eloranta (SDP), Hanna Kosonen (Keskusta) ja Oskari Valtola (Kokoomus):.  Keskustelun moderaattore",
-        "project": null,
-        "targets": [
-          828,
-          829,
-          831,
-          832,
-          839,
-          840,
-          845,
-          830,
-          833,
-          834,
-          835,
-          836,
-          837,
-          838,
-          841,
-          842,
-          843,
-          844,
-          1439,
-          848,
-          850,
-          851,
-          853,
-          855,
-          849,
-          852,
-          854,
-          861,
-          742,
-          781,
-          2257,
-          912,
-          913,
-          914,
-          916,
-          919,
-          920,
-          924,
-          915,
-          917,
-          918,
-          921,
-          922,
-          923,
-          925,
-          1438,
-          759,
-          762,
-          760,
-          761,
-          763,
-          764,
-          765,
-          766,
-          767,
-          769,
-          771,
-          772,
-          773,
-          774,
-          777,
-          778,
-          768,
-          770,
-          775,
-          776,
-          783,
-          785,
-          787,
-          788,
-          789,
-          790,
-          793,
-          794,
-          795,
-          796,
-          779,
-          780,
-          782,
-          784,
-          786,
-          791,
-          792,
-          797,
-          798,
-          799,
-          1431,
-          1432,
-          807,
-          808,
-          809,
-          810,
-          811,
-          812,
-          813,
-          814,
-          815,
-          816,
-          817,
-          818,
-          819,
-          820,
-          821,
-          822,
-          823,
-          824,
-          825,
-          826,
-          827,
-          1433,
-          900,
-          901,
-          904,
-          907,
-          910,
-          911,
-          902,
-          903,
-          905,
-          906,
-          908,
-          909,
-          1436,
-          1435,
-          1437,
-          735,
-          736,
-          737,
-          741,
-          743,
-          748,
-          750,
-          752,
-          753,
-          738,
-          739,
-          740,
-          744,
-          745,
-          746,
-          747,
-          749,
-          751,
-          754,
-          755,
-          756,
-          757,
-          758,
-          1430,
-          800,
-          801,
-          802,
-          804,
-          803
-        ]
-      },
-      {
-        "date": "2025-02-24",
-        "customer": null,
-        "topic": "SDP-Sivistysvaliokuntaeduskuntaryhmän tapaaminen 26.11.2024 klo 14.45 eduskunnassa yhdessä Sivista ry:n kanssa.",
-        "project": null,
-        "targets": [
-          895
         ]
       }
     ]
@@ -7238,7 +7241,7 @@
       {
         "date": "2025-08-31",
         "customer": null,
-        "topic": "Suomi Areena 2024 yhteydessä Ministeri Multalan ja SSAB:n CEO:n Johnny Sjöströmin tapaamisen suunnittelu.",
+        "topic": "Suomi Areena 2025 yhteydessä ympäristö- ja ilmastoministerin ja SSAB:n edustajan tapaamisen suunnittelu.",
         "project": null,
         "targets": [
           2992
@@ -13238,7 +13241,7 @@
       {
         "date": "2025-08-31",
         "customer": null,
-        "topic": "Rakentamisen uusi aika -vaalipaneeli Viherpäivillä Jyväskylässä. Tavoittelimme kansanedustajia paneeliimme keskustelemaan luontopohjaisista tavoista rakentaa kaupunkeja. Paneeli järjestettiin 6.2.2025, ja siihen lopulta osallistuivat kansanedustajat Petri Honkonen ja Suna Kymäläinen sekä Jyväskylästä Juha Suonperä. Ilmoitukselle listattu kansanedustajat, joita pyydetty paneeliin osallistujiksi. Lisäksi sama pyyntö on välitetty ko. edustajien avustajille.",
+        "topic": "Rakentamisen uusi aika -vaalipaneeli Viherpäivillä Jyväskylässä. Tavoittelimme kansanedustajia paneeliimme keskustelemaan luontopohjaisista tavoista rakentaa kaupunkeja. Paneeli järjestettiin 6.2.2025, ja siihen lopulta osallistuivat kansanedustajat Petri Honkonen ja Suna Kymäläinen. Ilmoitukselle listattu kansanedustajat, joita pyydetty paneeliin osallistujiksi. Lisäksi sama pyyntö on välitetty ko. edustajien avustajille.",
         "project": null,
         "targets": [
           2726,
@@ -13256,7 +13259,7 @@
       {
         "date": "2025-08-31",
         "customer": null,
-        "topic": "Hyvinvointi rakentuu elävässä ympäristössä -viestintäkampanjan tiedoksituonti Ympäristöministeriön kestävä rakentaminen ja asmuinen osastolle. Tiedotettu sähköpostitse kampanjan aloittamisesta vuonna 2026. Tiedottaminen on tehty Viherympäristöliiton ja Ympäristöministeriön yhteistyön hengessä ja saattaen tiedoksi, että kampanja samaa nimeä vuonna 2023 suunnitellun Vihervuoden toimintasuunnitelman kanssa, mutta toteutustapa on erilainen ja ministeriöstä riippumaton. Sähköposti lähetetty henkilöille Samuli Alppi, Mika Ristimäki ja Taru Sihvonen.",
+        "topic": "Hyvinvointi rakentuu elävässä ympäristössä -viestintäkampanjan tiedoksituonti Ympäristöministeriön kestävä rakentaminen ja asuminen osastolle. Tiedotettu sähköpostitse kampanjan aloittamisesta vuonna 2026. Tiedottaminen on tehty Viherympäristöliiton ja Ympäristöministeriön yhteistyön hengessä ja saattaen tiedoksi, että kampanja samaa nimeä vuonna 2023 suunnitellun Vihervuoden toimintasuunnitelman kanssa, mutta toteutustapa on erilainen ja ministeriöstä riippumaton.",
         "project": null,
         "targets": [
           2970
@@ -25003,8 +25006,8 @@
         "topic": null,
         "project": "Hallituksen esitys eduskunnalle laiksi rakentamislain muuttamisesta ja eräiksi siihen liittyviksi laeiksi",
         "targets": [
-          2908,
-          2910
+          2910,
+          2908
         ]
       },
       {
@@ -26522,6 +26525,7 @@
         "topic": "Työperäisen maahanmuuton helpottaminen, työvoiman liikkuvuuden varmistaminen ja sosiaaliturva (Puoliväliriihen tavoitteet)",
         "project": null,
         "targets": [
+          3004,
           2758,
           2584,
           2791,
@@ -26531,7 +26535,6 @@
           2583,
           2646,
           2476,
-          3004,
           2669,
           2910,
           2999,
@@ -26749,7 +26752,7 @@
       {
         "date": "2025-08-29",
         "customer": null,
-        "topic": "E-kirjelmäluonnos: Artificial Intelligence Continent Action Plan",
+        "topic": "E-kirjelmäluonnos:  Tekoälyä koskeva toimintasuunnitelma",
         "project": null,
         "targets": [
           2488
@@ -33487,7 +33490,7 @@
       {
         "date": "2025-08-29",
         "customer": null,
-        "topic": "Discussion about the funding for the NRTP network.",
+        "topic": "Keskustelu uskonnollisten ja perinteisten rauhantoimijoiden verkoston rahoituksesta.",
         "project": null,
         "targets": [
           2851
@@ -33496,7 +33499,7 @@
       {
         "date": "2025-08-29",
         "customer": null,
-        "topic": "Meeting to discuss the situation in Central African Republic.",
+        "topic": "Tapaaminen, jossa keskusteltiin Keski-Afrikan tasavallan tilanteesta.",
         "project": null,
         "targets": [
           2500
@@ -33545,7 +33548,7 @@
       {
         "date": "2025-08-29",
         "customer": null,
-        "topic": "Representation event hosted by Tarja Kantola, Chair of FCA Board in honour of Al Rashid Hemeiri, Director of Development & International Cooperation during his visit to Helsinki for the Education In Emergencies conference.",
+        "topic": "Koulutus katastrofeissa - konferenssin tapahtuma, joka järjestettiin Helsingin yliopistolla yhdessä Kirkon Ulkomaanavun kanssa 2025 toukokuussa.",
         "project": null,
         "targets": [
           2381,
@@ -33881,7 +33884,7 @@
       {
         "date": "2025-08-29",
         "customer": null,
-        "topic": "Nuorten ja opiskelijoiden sosiaaliturva, lyhyt keskustelu Virpi Hiltusen kanssa. Mukana kaksi HYYn hallituksen jäsentä.",
+        "topic": "Nuorten ja opiskelijoiden sosiaaliturva, lyhyt keskustelu opintotuen kokonaisuudistusta varten asetetun työryhmän jäsenen/virkamiehen kanssa.",
         "project": null,
         "targets": [
           2515
@@ -33899,7 +33902,7 @@
       {
         "date": "2025-08-29",
         "customer": null,
-        "topic": "Keskustelimme kansainvälisten opiskelijoiden työllisyydestä ja tilanteesta Suomessa tällä hetkellä. Tavattu 25.6.",
+        "topic": "Keskustelimme kansainvälisten opiskelijoiden työllisyydestä ja tilanteesta Suomessa tällä hetkellä.",
         "project": null,
         "targets": [
           2373
@@ -33908,7 +33911,7 @@
       {
         "date": "2025-08-29",
         "customer": null,
-        "topic": "Opiskelijoiden ateriatuki ja toimeentulo. Tavattu Mika Poutala, ja Poutalan erityisavustaja Annika Lyytikäinen.",
+        "topic": "Opiskelijoiden ateriatuen nostaminen ja opiskelijoiden toimeentulon tilanne.",
         "project": null,
         "targets": [
           3014,
@@ -33918,7 +33921,7 @@
       {
         "date": "2025-08-29",
         "customer": null,
-        "topic": "HYYn hallituksen jäsen Venla Lehtinen ja koulutuspoliittinen asiantuntija tapasivat Sakari Rokkasta.Keskustelua korkeakoulupolitiikan ja yliopisto-opiskelijoiden ajankohtaisista asioista. Esimerkiksi Opiskelijoiden asuminen sekä opiskelijoiden toimeentulon haasteet.",
+        "topic": "Keskustelua korkeakoulupolitiikan ja yliopisto-opiskelijoiden ajankohtaisista asioista. Esimerkiksi Opiskelijoiden asuminen sekä opiskelijoiden toimeentulon haasteet.",
         "project": null,
         "targets": [
           2584
@@ -33927,7 +33930,7 @@
       {
         "date": "2025-08-29",
         "customer": null,
-        "topic": "HYYn hallituksen jäsen Viena Pentikäinen, pääsihteeri Paula Karhunen sekä sosiaalipoliittinen asiantuntija Teemu Virtanen tapasivat erityisavustaja Emma-Stiina Vehmaista 19.5.2025. Agendalla oli opiskelijan asumiseen liittyviä kysymyksiä: korkotukilaina, asp-lainan omavastuu osuuden muutos sekä opiskelija-asumisen tulevaisuus (yksiöt vs. solut).",
+        "topic": "Agendalla oli opiskelijan asumiseen liittyviä kysymyksiä: korkotukilaina, asp-lainan omavastuu osuuden muutos sekä opiskelija-asumisen tulevaisuus (yksiöt vs. solut).",
         "project": null,
         "targets": [
           2910
@@ -33936,7 +33939,7 @@
       {
         "date": "2025-08-29",
         "customer": null,
-        "topic": "HYYn hallituksen jäsen Sanni Nieminen istui vuosijuhlilla kansanedustaja Ville Valkosen vieressä. Keskustelun lomassa puhuttiin opiskelija-asumisesta, opiskelijoiden toimeentulosta ja yleisesti ylioppilasliikkeen kuulumisista.",
+        "topic": "Ilmoitetaan muussa yhteydessä tapahtunut vapaamuotoinen keskustelu. Keskustelun lomassa puhuttiin opiskelija-asumisesta, opiskelijoiden toimeentulosta ja yleisesti ylioppilasliikkeen kuulumisista.",
         "project": null,
         "targets": [
           2701
@@ -33945,7 +33948,7 @@
       {
         "date": "2025-08-29",
         "customer": null,
-        "topic": "Esitelty muutaman ylioppilaskunnan yhteistä flaijeria Suomi-Areenassa. Aiheena opiskelijoiden toimeentulo ja opiskelija-asumisen investointiavustus, maksuton koulutus ja avoimen väylän tutkinnonanto-oikeuteen kriittisyys sekä huoli kansainvälisten opiskelijoiden työllistymisen esteistä. Lisäksi keskusteluissa mukana opiskelijoiden velkaantumisen tilanne. Tapaamiset spontaanisti ja lyhyesti Suomi-Areenassa, lobbaajina HYYn hallituksen jäseniä.",
+        "topic": "Esitelty muutaman ylioppilaskunnan yhteistä flaijeria Suomi-Areenassa. Aiheena opiskelijoiden toimeentulo ja opiskelija-asumisen investointiavustus, maksuton koulutus ja avoimen väylän tutkinnonanto-oikeuteen kriittisyys sekä huoli kansainvälisten opiskelijoiden työllistymisen esteistä. Lisäksi keskusteluissa mukana opiskelijoiden velkaantumisen tilanne. Tapaamiset spontaanisti ja lyhyesti Suomi-Areenassa.",
         "project": null,
         "targets": [
           2299,
@@ -33986,7 +33989,7 @@
       {
         "date": "2025-02-28",
         "customer": null,
-        "topic": "HYYn hallitus tapasi kansanedustaja Jessi Jokelaista 18.12.2025 eduskuntavierailulla. Vierailun tarkoituksena oli yleinen verkostoituminen sekä tutustuminen eduskunnan toimintaan ja kansanedustajan työhön. Keskustelussa vaihdettiin hyvin lyhyesti ajankohtaisia ajatuksia opiskelijoiden tilanteesta.",
+        "topic": "Eduskuntavierailu kansanedustajan luona. Vierailun tarkoituksena oli yleinen verkostoituminen sekä tutustuminen eduskunnan toimintaan ja kansanedustajan työhön. Keskustelussa vaihdettiin hyvin lyhyesti ajankohtaisia ajatuksia opiskelijoiden tilanteesta.",
         "project": null,
         "targets": [
           1435
@@ -38898,7 +38901,7 @@
       {
         "date": "2025-08-29",
         "customer": "Lockheed Martin Global, Inc. sivuliike Suomessa",
-        "topic": "Defence Cooperation Agreement (DCA) with the United States",
+        "topic": "Puolustusyhteistyösopimus Yhdysvaltain kanssa (DCA)",
         "project": null,
         "targets": [
           2541
@@ -49785,7 +49788,7 @@
       {
         "date": "2025-08-29",
         "customer": null,
-        "topic": "Global and regional security situation: Finnish NORDEFCO Chairmanship; Nordic co-operation",
+        "topic": "Globaali ja alueellinen turvallisuustilanne: Suomen NORDEFCO-puheenjohtajuus; pohjoismainen yhteistyö",
         "project": null,
         "targets": [
           2538,
@@ -49797,7 +49800,7 @@
       {
         "date": "2025-08-29",
         "customer": null,
-        "topic": "Finland's F-35 program and Finland's defence materiel policy and strategy",
+        "topic": "Suomen F-35-hanke sekä Suomen puolustusmateriaalipolitiikka ja -strategia",
         "project": null,
         "targets": [
           2526
@@ -49806,7 +49809,7 @@
       {
         "date": "2025-08-29",
         "customer": null,
-        "topic": "Defence Cooperation Agreement (DCA) with the United States",
+        "topic": "Puolustusyhteistyösopimus (DCA) Yhdysvaltojen kanssa",
         "project": null,
         "targets": [
           2541
@@ -49815,7 +49818,7 @@
       {
         "date": "2025-02-27",
         "customer": null,
-        "topic": "Global and regional security situation: Nordic co-operation, importance of long-term view on defence and sustainment",
+        "topic": "Globaali ja alueellinen turvallisuustilanne: Pohjoismainen yhteistyö, pitkän aikavälin suunnittelun tärkeys puolustuksessa ja huollossa",
         "project": null,
         "targets": [
           771,
@@ -49830,7 +49833,7 @@
       {
         "date": "2025-02-27",
         "customer": null,
-        "topic": "Finland's F-35 program and Finland's defence materiel policy and strategy",
+        "topic": "Suomen F-35-hanke sekä Suomen puolustusmateriaalipolitiikka ja -strategia",
         "project": null,
         "targets": [
           1055,
@@ -49841,7 +49844,7 @@
       {
         "date": "2025-02-27",
         "customer": null,
-        "topic": "Defence Cooperation Agreement (DCA) with the United States",
+        "topic": "Puolustusyhteistyösopimus (DCA) Yhdysvaltojen kanssa",
         "project": null,
         "targets": [
           1070
@@ -49850,7 +49853,7 @@
       {
         "date": "2024-08-30",
         "customer": null,
-        "topic": "Global and regional security situation: Nordic co-operation, importance of long-term view on defence and sustainment",
+        "topic": "Globaali ja alueellinen turvallisuustilanne: Pohjoismainen yhteistyö, pitkän aikavälin suunnittelun tärkeys puolustuksessa ja huollossa",
         "project": null,
         "targets": [
           88,
@@ -49862,7 +49865,7 @@
       {
         "date": "2024-08-30",
         "customer": null,
-        "topic": "Development of space domain and technical capabilities available, growing role of space",
+        "topic": "Avaruusalueen ja käytettävissä olevien teknisten valmiuksien kehittäminen, avaruuden kasvava merkitys",
         "project": null,
         "targets": [
           76,
@@ -49872,7 +49875,7 @@
       {
         "date": "2024-08-30",
         "customer": null,
-        "topic": "Finland's F-35 program and Finland's defence materiel policy and strategy",
+        "topic": "Suomen F-35-hanke sekä Suomen puolustusmateriaalipolitiikka ja -strategia",
         "project": null,
         "targets": [
           358,
@@ -67323,7 +67326,7 @@
       {
         "date": "2025-08-29",
         "customer": null,
-        "topic": "Oikeusministeriön virkakuntaa (noin 40 henkilöä) pitämässä omaa kokoustaan SKS:n tiloissa, tilaisuuden alussa yleisesittely SKS:n toiminnasta / 30.1.2025",
+        "topic": "Oikeusministeriön virkakuntaa (noin 40 henkilöä) pitämässä omaa kokoustaan SKS:n tiloissa, tilaisuuden alussa yleisesittely SKS:n toiminnasta.",
         "project": null,
         "targets": [
           2620
@@ -67332,7 +67335,7 @@
       {
         "date": "2025-08-29",
         "customer": null,
-        "topic": "Ulkoministeriön järjestämä Indopasifiseen alueeseen liittyvä keskustelutilaisuus SKS:n juhlasalissa, tilaisuuden alussa yleisesittely SKS:n toiminnasta / 14.2.2025",
+        "topic": "Ulkoministeriön järjestämä Indopasifiseen alueeseen liittyvä keskustelutilaisuus SKS:n juhlasalissa, tilaisuuden alussa yleisesittely SKS:n toiminnasta.",
         "project": null,
         "targets": [
           2614
@@ -67341,7 +67344,7 @@
       {
         "date": "2025-08-29",
         "customer": null,
-        "topic": "Maa- ja metsätalousministeriön henkilökuntaa (noin 10 hlö) tutustumassa SKS:n toimintaan osana työhyvinvoinnin tukemista / 11.3.2025",
+        "topic": "Maa- ja metsätalousministeriön henkilökuntaa (noin 10 hlö) tutustumassa SKS:n toimintaan osana työhyvinvoinnin tukemista.",
         "project": null,
         "targets": [
           2431
@@ -67350,7 +67353,7 @@
       {
         "date": "2025-08-29",
         "customer": null,
-        "topic": "Tutustuminen SKS:n toimintaan, erityisesti arkiston digitaalisiin ratkaisuihin/ OKM:n Kulttuuri- ja taidepolitiikan osastolta (KUPO), Taiteen ja kulttuuriperinnön vastuualueelta (TAKU) / 21.3.2025",
+        "topic": "Tutustuminen SKS:n toimintaan, erityisesti arkiston digitaalisiin ratkaisuihin/ OKM:n Kulttuuri- ja taidepolitiikan osastolta (KUPO), Taiteen ja kulttuuriperinnön vastuualueelta (TAKU).",
         "project": null,
         "targets": [
           2511
@@ -67359,7 +67362,7 @@
       {
         "date": "2025-08-29",
         "customer": null,
-        "topic": "OKM:n henkilöiden ja SKS:n johdon välinen tapaaminen. SKS:n toiminnan esittely sekä keskustelua tulevaisuuden rahoitusnäkymistä / 4.4.2025",
+        "topic": "OKM:n henkilöiden ja SKS:n johdon välinen tapaaminen. SKS:n toiminnan esittely sekä keskustelua tulevaisuuden rahoitusnäkymistä.",
         "project": null,
         "targets": [
           2658,
@@ -67369,7 +67372,7 @@
       {
         "date": "2025-08-29",
         "customer": null,
-        "topic": "Tapaaminen osana Beninin ulkoministeri H.E Olushegun Adjadi Bakarin tapaamista Hotel Crowne Plazassa, aiheena vodunin ja suomalaisen kansanuskon suhde ja mahdollinen yhteistyö Beninin ja suomalaisten tiede- ja kulttuuriperintöorganisaatioiden välillä / 17.6.2025",
+        "topic": "Tapaamisen aiheena vodunin ja suomalaisen kansanuskon suhde ja mahdollinen yhteistyö Beninin ja suomalaisten tiede- ja kulttuuriperintöorganisaatioiden välillä. Tapaaminen osana Beninin virkamieskunnan vierailua.",
         "project": null,
         "targets": [
           2813
@@ -75504,7 +75507,7 @@
       {
         "date": "2025-08-28",
         "customer": null,
-        "topic": "En löytänyt virallisia hankenumeroita, mutta olemme antaneet myös seuraavat lausunnot:\n-> STM: selvitysmies Pyykön raportti JA HE terveydenhuoltolain muuttamiseksi (koulu- ja opiskeluterveydenhuolto)\n-> OKM: HE ammatillisesta koulutuksesta annetun lain muuttamiseksi (lukio- ja ammatillisen koulutuksen lukuvuosimaksut EU/ETA-maiden ulkopuolisille ja ammatillisen koulutuksen tilauskoulutus) JA HE perusopetuslain muuttamiseksi (valmistavan opetuksen lisäopetus\n-> Eduskunnan sivistysvaliokunta: HE perusopetuslain muuttamiseksi (mobiililaitteiden käytön rajoitukset) JA HE OKM:n virastouudistukseksi",
+        "topic": "En löytänyt hankenumeroita, mutta olemme antaneet myös nämä lausunnot:\n-> STM: selvityshenkilön raportti (STEA-avustukset) JA HE terveydenhuoltolain muuttamiseksi (koulu- ja opiskeluterveydenhuolto)\n-> OKM: HE ammatillisesta koulutuksesta annetun lain muuttamiseksi (lukio- ja ammatillisen koulutuksen lukuvuosimaksut EU/ETA-maiden ulkopuolisille ja ammatillisen koulutuksen tilauskoulutus) JA HE perusopetuslain muuttamiseksi (valmistavan opetuksen lisäopetus\n-> Eduskunnan sivistysvaliokunta: HE perusopetuslain muuttamiseksi (mobiililaitteiden käytön rajoitukset) JA HE OKM:n virastouudistukseksi",
         "project": null,
         "targets": [
           2581,
@@ -80861,7 +80864,7 @@
       {
         "date": "2025-08-28",
         "customer": null,
-        "topic": "Kalastus- ja valtameriasioista vastaava komissaari Costas Kadis vieraili Suomessa. Tutustuminen Keskon kalatukkuliiketoimintaan, sisältäen vierailun tuotantolaitoksella.",
+        "topic": "EU-tason vierailu liittyen Kesko kalatukkuliiketoimintaan sisältäen käynnin tuotantolaitoksella.",
         "project": null,
         "targets": [
           2432,
@@ -87565,25 +87568,7 @@
       {
         "date": "2025-08-28",
         "customer": null,
-        "topic": "Useita tapaamisia Digipaneelin myötä. Neogamesin toiminnanjohtaja Hiltunen nimettiin Digipaneeliin viime syksynä.",
-        "project": null,
-        "targets": [
-          2511
-        ]
-      },
-      {
-        "date": "2025-08-28",
-        "customer": null,
         "topic": "Osallistuminen ministeriön järjestämään kuulemiseen, aiheena EU-rahoitus ja uusi ohjelmakausi.",
-        "project": null,
-        "targets": [
-          2511
-        ]
-      },
-      {
-        "date": "2025-08-28",
-        "customer": null,
-        "topic": "Useita Luovan talouden neuvottelukunnan tapaamisia. Toiminnanjohtaja Hiltunen on toinen pelialan edustajista neuvottelukunnassa.",
         "project": null,
         "targets": [
           2511
@@ -87885,7 +87870,7 @@
       {
         "date": "2025-08-28",
         "customer": null,
-        "topic": "Tapaamispyyntö ja puhelinkeskustelu, aiheena pelit digitaalisena kulttuurina sekä lastensuojelu. Lisäksi oma viesti, jossa jaoimme erityisavustaja Lohelle alan huomioita etukäteen aiheeseen liittyen.",
+        "topic": "Tapaamispyyntö ja puhelinkeskustelu, aiheena pelit digitaalisena kulttuurina sekä lastensuojelu. Lisäksi oma viesti, jossa jaoimme erityisavustajalle alan huomioita etukäteen aiheeseen liittyen.",
         "project": null,
         "targets": [
           2655
@@ -109365,7 +109350,7 @@
       {
         "date": "2025-08-27",
         "customer": null,
-        "topic": "EU: Revision of the CO2 emission standards for cars and vans",
+        "topic": "EU: Henkilö- ja pakettiautojen Co2-raja-arvoasetus",
         "project": null,
         "targets": [
           2396,
@@ -129843,7 +129828,7 @@
       {
         "date": "2025-08-26",
         "customer": null,
-        "topic": "World Health Assembly Lung Cancer Round Table in Geneva",
+        "topic": "Pyöreän pöydän keskustelu keuhkosyövästä Genevassa World Health Assembly -tapahtumassa.",
         "project": null,
         "targets": [
           2582,
@@ -144317,7 +144302,7 @@
       {
         "date": "2025-08-22",
         "customer": null,
-        "topic": "Amcham Finland advocates for strategic cooperation and partnership with the United States. Amcham promotes the U.S. as a source of long-term investment to Finland and as a productive market for Finnish companies expanding abroad. Amcham fosters long term transatlantic ties through diverse networks and best practice programs.",
+        "topic": "Amcham Finland ajaa strategista yhteistyötä ja kumppanuutta Yhdysvaltain kanssa. Amcham edistää Yhdysvaltoja pitkäaikaisten investointien lähteenä Suomeen ja tuottavana markkina-alueena ulkomaille laajentuville suomalaisille yrityksille. Amcham ylläpitää pitkäaikaisia ​​transatlanttisia suhteita monipuolisten verkostojen ja parhaiden käytäntöjen ohjelmien kautta.",
         "project": null,
         "targets": [
           2827,
@@ -144329,7 +144314,7 @@
       {
         "date": "2025-08-22",
         "customer": null,
-        "topic": "Amcham promotes the voice of international business in Finland and fosters longterm transatlantic ties through diverse networks and cross-industry best practice programs. Amcham Finland fosters innovation, business development, and sustainable partnerships. Our programs offer platforms for business to understand policy changes and opportunities for public-private sector collaboration. We promote Finland's economic prosperity by assisting Finnish companies to succeed in the U.S. and helping American and other international/global companies to thrive and grow their investments in Finland.",
+        "topic": "Amcham Finland on kansainvälisen liiketoiminnan ääni ja transatlanttisten suhteiden rakentaja. Edistämme Suomen taloudellista menestystä auttamalla suomalaisyrityksiä Yhdysvaltain markkinoilla ja tukemalla kansainvälisten yritysten investointeja Suomeen. Tarjoamme alustan verkostoitumiselle, innovaatioille ja poliittisen toimintaympäristön ymmärtämiselle. Tavoitteenamme on kestävä kasvu ja vahva julkisen sekä yksityisen sektorin yhteistyö.",
         "project": null,
         "targets": [
           2675,
@@ -144344,7 +144329,7 @@
       {
         "date": "2025-08-22",
         "customer": null,
-        "topic": "Amcham Finland advocates for the value and positive impact of foreign direct investment (FDI) to Finland, as a vehicle for long-term economic growth. Amcham also advocates for the fair and equal treatment of foreign affiliates in Finland. Amcham's FDI Vision was published in 2021 and is available to the public. Amcham's advocacy around FDI has been focused on the first stage of the roadmap published in the Vision: \"FDI requires an open mindset.\"",
+        "topic": "Amcham Finland ajaa ulkomaisten suorien sijoitusten (FDI) arvoa ja myönteisiä vaikutuksia Suomeen pitkän aikavälin talouskasvun välineenä. Amcham ajaa myös ulkomaisten tytäryhtiöiden oikeudenmukaista ja tasapuolista kohtelua Suomessa. Amchamin FDI-visio julkaistiin vuonna 2021, ja se on julkisesti nähtävillä. Amchamin edunvalvonta suorien sijoitusten suhteen on keskittynyt visiossa julkaistun etenemissuunnitelman ensimmäiseen vaiheeseen: \"FDI vaatii avointa ajattelutapaa\".",
         "project": null,
         "targets": [
           2787,
@@ -167691,7 +167676,7 @@
       {
         "date": "2025-08-07",
         "customer": null,
-        "topic": "Rauhannobelisti Denis Mukwegen tapaaminen ja keskustelu Kongon ajankohtaisesta kriisistä ja humanitaarisesta tilanteesta. Vetoomuksen luovuttaminen ministeri Valtoselle.",
+        "topic": "Tuotu tietoa ja keskusteltu Kongon ajankohtaisesta kriisistä ja humanitaarisesta tilanteesta. Vetoomus aiheesta luovutettu ministeri Valtoselle.",
         "project": null,
         "targets": [
           2816,
@@ -170884,6 +170869,15 @@
           2317,
           2663,
           2753
+        ]
+      },
+      {
+        "date": "2025-08-04",
+        "customer": null,
+        "topic": "Yleiskuva Suomen ilmastopolitiikasta ja ilmastotavoitteista.",
+        "project": null,
+        "targets": [
+          2786
         ]
       },
       {
@@ -192365,111 +192359,6 @@
           749,
           744,
           724
-        ]
-      }
-    ]
-  },
-  {
-    "companyId": "2622599-6",
-    "otherCompanyId": null,
-    "name": "Eolus Finland Oy",
-    "activities": [
-      {
-        "date": "2025-01-14",
-        "customer": null,
-        "topic": "Merituulivoima talousvyöhykkeellä. Viestimme koskien talousvyöhykkeen merituulivoimalakia: 1) Ilmoitetusta aikataulusta tulee pitää kiinni, jotta epävarmuus ei pitkity. 2) Alueiden valinnassa ja kilpailutusten järjestyksessä tulee painottaa jo kehitettyjä alueita. 3) Laadullisille kriteereille tulee antaa kilpailutuksissa suuri painoarvo. Jo tehdyn hankekehityksen huomioiminen kriteereissä edistää hankkeiden toteutumista.",
-        "project": null,
-        "targets": [
-          1390,
-          1392
-        ]
-      },
-      {
-        "date": "2025-01-14",
-        "customer": null,
-        "topic": "Merituulivoima talousvyöhykkeellä: 1) Alueet, joissa on pidemmälle edenneitä hankkeita, tulisi kilpailuttaa ensin. 2) Ympäristövaikutusten arviointiin (YVA) asti edennyt hankekehitystyö tulisi huomioida kilpailutuksessa. YVA-vaiheeseen etenemisen ansiosta näillä hankkeilla on merkittävä etumatka hankekehityksessä ja arvokasta tietoa alueiden luonnosta ja olosuhteista. 3) Kilpailutuksessa tulisi olla mukana yhdellä kertaa useampi alue. Koska vain osa hankkeista osoittautuu tutkimusten perusteella lopulta toteuttamiskelpoiseksi, on järkevää kilpailuttaa useampi alue kerrallaan.",
-        "project": null,
-        "targets": [
-          774,
-          1433,
-          852,
-          886,
-          921,
-          767,
-          831,
-          783,
-          777,
-          879,
-          1434
-        ]
-      },
-      {
-        "date": "2025-01-14",
-        "customer": null,
-        "topic": "Merituulivoima talousvyöhykkeellä: 1) Päivitimme Eoluksen merituulivoimahankkeiden tilannetta. 2) Korostimme aluevalintojen tärkeyttä merituulivoima-alueiden kilpailutuksissa ja toimme esiin Satakunnan potentiaalin Suomen merituulivoiman keskittymänä. 3) Puhuimme markkinaehtoiseen merituulivoiman kehittämiseen liittyvistä haasteista.",
-        "project": null,
-        "targets": [
-          741
-        ]
-      },
-      {
-        "date": "2025-01-14",
-        "customer": null,
-        "topic": "Merituulivoima talousvyöhykkeellä: 1) Alueet, joissa on pidemmälle edenneitä hankkeita, tulisi kilpailuttaa ensin. 2) Ympäristövaikutusten arviointiin (YVA) asti edennyt hankekehitystyö tulisi huomioida kilpailutuksessa. YVA-vaiheeseen etenemisen ansiosta näillä hankkeilla on merkittävä etumatka hankekehityksessä ja arvokasta tietoa alueiden luonnosta ja olosuhteista. 3) Kilpailutuksessa tulisi olla mukana yhdellä kertaa useampi alue, koska vain osa hankkeista osoittautuu tutkimusten perusteella lopulta markkinaehtoisesti toteuttamiskelpoiseksi.",
-        "project": null,
-        "targets": [
-          871
-        ]
-      },
-      {
-        "date": "2025-01-14",
-        "customer": null,
-        "topic": "Merituulivoima talousvyöhykkeellä: 1) Hallituksen esitystä tulee edistää mahdollisimman nopeasti ja jouduttaa ehdotetun lain nojalla annettavan valtioneuvoston asetuksen valmistelua. 2) Kilpailutuksen laadullisissa kriteereissä tulisi huomioida myös aiemman lainsäädännön puitteissa tehty hankekehitystyö ja hankealueen tuntemus. 3) Kilpailutuksessa tulisi kilpailuttaa kerralla useita alueita. 4) Osallistumismaksujen ja edistämisvakuuksien tasot tulisi pitää maltillisina. Lisäksi keskustelimme maatuulivoiman etäisyysvaatimuksesta.",
-        "project": null,
-        "targets": [
-          759
-        ]
-      },
-      {
-        "date": "2024-08-23",
-        "customer": null,
-        "topic": null,
-        "project": "Hallituksen esitys eduskunnalle laiksi merituulivoimasta talousvyöhykkeellä",
-        "targets": [
-          122,
-          114,
-          98,
-          68,
-          64,
-          32,
-          105,
-          256,
-          219,
-          453,
-          644,
-          643,
-          461,
-          162
-        ]
-      },
-      {
-        "date": "2024-08-23",
-        "customer": null,
-        "topic": "Merituulivoimahankkeiden hyödyntämisoikeushakemukset Suomen talousvyöhykkeellä. Eoluksen pääviesti: Merituulivoimahankkeiden eteneminen viivytyksittä tukee vetyteollisuuteen suunniteltuja investointeja. Hyödyntämislupien hyväksyntä pidemmälle kehitetyille hankkeille edistäisi merkittävästi vihreää siirtymää ja Suomen päästötavoitteiden saavuttamista.",
-        "project": null,
-        "targets": [
-          681
-        ]
-      },
-      {
-        "date": "2024-08-23",
-        "customer": null,
-        "topic": "Merituulivoimahankkeet Suomen talousvyöhykkeellä. Eoluksen pääviestit koskien valmisteilla olevaa lainsäädäntöä: 1) Hankealueiden kilpailutusaikataulua tulisi nopeuttaa, jotta merituulivoimahankkeet pääsisivät nopeammin liikkeelle. 2) Kilpailutuksessa pidemmälle hankkeidensa kanssa edenneiden toimijoiden tulisi saada etusija kehittämiinsä alueisiin. 3) Yhdellä kertaa tulisi kilpailuttaa useita hankealueita ja alueet, joissa on pidemmälle edenneitä hankkeita, tulisi kilpailuttaa ensin. 4) Lakiehdotuksessa hahmoteltua prosessia tulisi tehdä hanketoimijoiden näkökulmasta houkuttelevammaksi.",
-        "project": null,
-        "targets": [
-          162,
-          212,
-          177
         ]
       }
     ]

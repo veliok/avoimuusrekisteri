@@ -318,12 +318,6 @@
     "targets": 92
   },
   {
-    "id": "2500134-1",
-    "name": "Neogames Finland ry",
-    "activities": 43,
-    "targets": 264
-  },
-  {
     "id": "0202176-1",
     "name": "Suomen Kuljetus ja Logistiikka SKAL ry",
     "activities": 43,
@@ -358,6 +352,12 @@
     "name": "Nordea Bank Abp",
     "activities": 41,
     "targets": 147
+  },
+  {
+    "id": "2500134-1",
+    "name": "Neogames Finland ry",
+    "activities": 41,
+    "targets": 262
   },
   {
     "id": "0116510-6",
@@ -1644,6 +1644,12 @@
     "targets": 128
   },
   {
+    "id": "2622599-6",
+    "name": "Eolus Finland Oy",
+    "activities": 10,
+    "targets": 43
+  },
+  {
     "id": "2488970-5",
     "name": "Digita Oy",
     "activities": 10,
@@ -1756,12 +1762,6 @@
     "name": "Naisjärjestöt Yhteistyössä",
     "activities": 10,
     "targets": 35
-  },
-  {
-    "id": "0215406-2",
-    "name": "Vapaa Sivistystyö ry",
-    "activities": 9,
-    "targets": 172
   },
   {
     "id": "2613656-3",
@@ -2074,12 +2074,6 @@
     "name": "Barnavårdsföreningen i Finland r.f.",
     "activities": 8,
     "targets": 15
-  },
-  {
-    "id": "2622599-6",
-    "name": "Eolus Finland Oy",
-    "activities": 8,
-    "targets": 34
   },
   {
     "id": "2719339-1",
@@ -2742,6 +2736,12 @@
     "targets": 15
   },
   {
+    "id": "0200118-9",
+    "name": "Suomen Sairaanhoitajat ry",
+    "activities": 4,
+    "targets": 10
+  },
+  {
     "id": "2986582-5",
     "name": "VOI Technology Finland Ab",
     "activities": 4,
@@ -2770,6 +2770,12 @@
     "name": "SAMS",
     "activities": 4,
     "targets": 26
+  },
+  {
+    "id": "0215406-2",
+    "name": "Vapaa Sivistystyö ry",
+    "activities": 4,
+    "targets": 13
   },
   {
     "id": "0743087-1",
@@ -2848,6 +2854,12 @@
     "name": "Suomen Lähienergialiitto ry",
     "activities": 4,
     "targets": 16
+  },
+  {
+    "id": "2597856-6",
+    "name": "Tiina ja Antti Herlinin säätiö sr",
+    "activities": 4,
+    "targets": 27
   },
   {
     "id": "0202342-5",
@@ -3214,12 +3226,6 @@
     "name": "Eläkesäätiöyhdistys",
     "activities": 3,
     "targets": 5
-  },
-  {
-    "id": "2597856-6",
-    "name": "Tiina ja Antti Herlinin säätiö sr",
-    "activities": 3,
-    "targets": 26
   },
   {
     "id": "1778388-1",
@@ -3790,6 +3796,12 @@
     "name": "Tupakkateollisuusliitto ry",
     "activities": 2,
     "targets": 10
+  },
+  {
+    "id": "3431646-8",
+    "name": "Bucket Agency Oy",
+    "activities": 1,
+    "targets": 8
   },
   {
     "id": null,
