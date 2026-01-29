@@ -13,11 +13,11 @@ document.addEventListener("DOMContentLoaded", onLoad);
 
 async function onLoad() {
   [targetData, activityData, companyData, companyStats, targetStats] = await Promise.all([
-    readJSON("/data/targets.json"),
-    readJSON("/data/activities.json"),
-    readJSON("/data/companies.json"),
-    readJSON("/data/company_stats.json"),
-    readJSON("/data/target_stats.json"),
+    readJSON("data/targets.json"),
+    readJSON("data/activities.json"),
+    readJSON("data/companies.json"),
+    readJSON("data/company_stats.json"),
+    readJSON("data/target_stats.json"),
   ]);
 
   initRouter();

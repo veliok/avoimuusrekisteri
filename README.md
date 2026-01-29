@@ -1,21 +1,8 @@
 # Website for inspecting Finnish Transparency Register data.
 
 
-## Setup instructions
-__1. Clone the repository__
-
-```bash
-git clone https://github.com/veliok/veliok.github.io.git
-```
-__2. Install dependencies__
-```bash
-npm install
-```
-__3. Build and preview locally__
-```bash
-npm run build
-npm run preview
-```
+## Site
+[veliok.github.io/avoimuusrekisteri](https://www.veliok.github.io/avoimuusrekisteri)
 
 ## Automatic updates
 A GitHub Actions runs ```update.js``` on first day of every month.
