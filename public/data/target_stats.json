@@ -1,162 +1,207 @@
 [
   {
     "name": "Matias Marttinen",
-    "contactCompanyCount": 252,
-    "topicCount": 581
+    "contactCompanyCount": 264,
+    "topicCount": 605
   },
   {
     "name": "Sari Essayah",
-    "contactCompanyCount": 201,
-    "topicCount": 545
+    "contactCompanyCount": 209,
+    "topicCount": 563
   },
   {
     "name": "Anders Adlercreutz",
-    "contactCompanyCount": 212,
-    "topicCount": 495
+    "contactCompanyCount": 217,
+    "topicCount": 514
   },
   {
     "name": "Petteri Orpo",
-    "contactCompanyCount": 208,
-    "topicCount": 475
-  },
-  {
-    "name": "Inka Hopsu",
-    "contactCompanyCount": 182,
-    "topicCount": 451
+    "contactCompanyCount": 219,
+    "topicCount": 497
   },
   {
     "name": "Sari Multala",
-    "contactCompanyCount": 216,
-    "topicCount": 449
+    "contactCompanyCount": 224,
+    "topicCount": 466
+  },
+  {
+    "name": "Inka Hopsu",
+    "contactCompanyCount": 184,
+    "topicCount": 462
   },
   {
     "name": "Sanni Grahn-Laasonen",
-    "contactCompanyCount": 179,
-    "topicCount": 448
+    "contactCompanyCount": 187,
+    "topicCount": 462
   },
   {
     "name": "Mari-Leena Talvitie",
-    "contactCompanyCount": 177,
-    "topicCount": 434
+    "contactCompanyCount": 178,
+    "topicCount": 445
   },
   {
     "name": "Mikko Martikkala",
-    "contactCompanyCount": 157,
-    "topicCount": 391
+    "contactCompanyCount": 163,
+    "topicCount": 410
   },
   {
     "name": "Oskari Valtola",
-    "contactCompanyCount": 170,
-    "topicCount": 384
+    "contactCompanyCount": 179,
+    "topicCount": 402
   },
   {
     "name": "Antti Lindtman",
-    "contactCompanyCount": 153,
-    "topicCount": 383
+    "contactCompanyCount": 161,
+    "topicCount": 395
   },
   {
     "name": "Arto Satonen",
-    "contactCompanyCount": 162,
-    "topicCount": 383
+    "contactCompanyCount": 167,
+    "topicCount": 394
   },
   {
     "name": "Lyydia Ylönen",
-    "contactCompanyCount": 143,
-    "topicCount": 382
+    "contactCompanyCount": 146,
+    "topicCount": 393
   },
   {
     "name": "Saara-Sofia Sirén",
-    "contactCompanyCount": 154,
-    "topicCount": 372
-  },
-  {
-    "name": "Antti Kaikkonen",
-    "contactCompanyCount": 162,
-    "topicCount": 361
+    "contactCompanyCount": 158,
+    "topicCount": 384
   },
   {
     "name": "Sari Sarkomaa",
-    "contactCompanyCount": 150,
-    "topicCount": 361
+    "contactCompanyCount": 154,
+    "topicCount": 377
   },
   {
-    "name": "Ville Kaunisto",
-    "contactCompanyCount": 176,
-    "topicCount": 359
-  },
-  {
-    "name": "Sofia Virta",
-    "contactCompanyCount": 131,
-    "topicCount": 356
-  },
-  {
-    "name": "Matias Mäkynen",
-    "contactCompanyCount": 151,
-    "topicCount": 353
-  },
-  {
-    "name": "Henrik Vuornos",
-    "contactCompanyCount": 163,
-    "topicCount": 351
-  },
-  {
-    "name": "Markus Lohi",
-    "contactCompanyCount": 161,
-    "topicCount": 350
-  },
-  {
-    "name": "Oras Tynkkynen",
-    "contactCompanyCount": 157,
-    "topicCount": 350
+    "name": "Antti Kaikkonen",
+    "contactCompanyCount": 169,
+    "topicCount": 375
   },
   {
     "name": "Hilkka Kemppi",
-    "contactCompanyCount": 148,
-    "topicCount": 349
+    "contactCompanyCount": 155,
+    "topicCount": 375
   },
   {
-    "name": "Eeva Kalli",
+    "name": "Ville Kaunisto",
+    "contactCompanyCount": 180,
+    "topicCount": 368
+  },
+  {
+    "name": "Matias Mäkynen",
+    "contactCompanyCount": 154,
+    "topicCount": 365
+  },
+  {
+    "name": "Oras Tynkkynen",
     "contactCompanyCount": 165,
-    "topicCount": 347
+    "topicCount": 364
   },
   {
-    "name": "Markku Siponen",
-    "contactCompanyCount": 146,
-    "topicCount": 347
-  },
-  {
-    "name": "Sinuhe Wallinheimo",
-    "contactCompanyCount": 150,
-    "topicCount": 347
-  },
-  {
-    "name": "Peter Östman",
-    "contactCompanyCount": 150,
-    "topicCount": 342
-  },
-  {
-    "name": "Atte Harjanne",
-    "contactCompanyCount": 192,
-    "topicCount": 342
+    "name": "Sofia Virta",
+    "contactCompanyCount": 134,
+    "topicCount": 363
   },
   {
     "name": "Sakari Puisto",
+    "contactCompanyCount": 164,
+    "topicCount": 362
+  },
+  {
+    "name": "Markus Lohi",
+    "contactCompanyCount": 165,
+    "topicCount": 361
+  },
+  {
+    "name": "Henrik Vuornos",
+    "contactCompanyCount": 166,
+    "topicCount": 361
+  },
+  {
+    "name": "Markku Siponen",
+    "contactCompanyCount": 151,
+    "topicCount": 358
+  },
+  {
+    "name": "Eeva Kalli",
+    "contactCompanyCount": 168,
+    "topicCount": 357
+  },
+  {
+    "name": "Peter Östman",
     "contactCompanyCount": 155,
-    "topicCount": 341
+    "topicCount": 356
+  },
+  {
+    "name": "Sinuhe Wallinheimo",
+    "contactCompanyCount": 152,
+    "topicCount": 355
   },
   {
     "name": "Nasima Razmyar",
-    "contactCompanyCount": 138,
-    "topicCount": 339
+    "contactCompanyCount": 143,
+    "topicCount": 351
   },
   {
     "name": "Antti Kurvinen",
-    "contactCompanyCount": 152,
-    "topicCount": 337
+    "contactCompanyCount": 159,
+    "topicCount": 350
+  },
+  {
+    "name": "Markku Eestilä",
+    "contactCompanyCount": 139,
+    "topicCount": 349
   },
   {
     "name": "Mika Lintilä",
-    "contactCompanyCount": 158,
+    "contactCompanyCount": 163,
+    "topicCount": 348
+  },
+  {
+    "name": "Atte Harjanne",
+    "contactCompanyCount": 194,
+    "topicCount": 348
+  },
+  {
+    "name": "Mia Laiho",
+    "contactCompanyCount": 162,
+    "topicCount": 347
+  },
+  {
+    "name": "Jani Mäkelä",
+    "contactCompanyCount": 150,
+    "topicCount": 344
+  },
+  {
+    "name": "Bella Forsgrén",
+    "contactCompanyCount": 146,
+    "topicCount": 343
+  },
+  {
+    "name": "Krista Mikkonen",
+    "contactCompanyCount": 156,
+    "topicCount": 343
+  },
+  {
+    "name": "Jussi Lindgren",
+    "contactCompanyCount": 153,
+    "topicCount": 341
+  },
+  {
+    "name": "Henrik Wickström",
+    "contactCompanyCount": 147,
+    "topicCount": 338
+  },
+  {
+    "name": "Wille Rydman",
+    "contactCompanyCount": 162,
+    "topicCount": 338
+  },
+  {
+    "name": "Mika Poutala",
+    "contactCompanyCount": 154,
     "topicCount": 337
   },
   {
@@ -165,254 +210,249 @@
     "topicCount": 337
   },
   {
-    "name": "Jani Mäkelä",
-    "contactCompanyCount": 146,
-    "topicCount": 335
-  },
-  {
-    "name": "Wille Rydman",
-    "contactCompanyCount": 161,
-    "topicCount": 334
-  },
-  {
-    "name": "Krista Mikkonen",
-    "contactCompanyCount": 151,
-    "topicCount": 333
-  },
-  {
-    "name": "Jussi Lindgren",
-    "contactCompanyCount": 151,
-    "topicCount": 333
-  },
-  {
-    "name": "Markku Eestilä",
-    "contactCompanyCount": 134,
-    "topicCount": 330
-  },
-  {
     "name": "Petri Huru",
-    "contactCompanyCount": 149,
-    "topicCount": 329
-  },
-  {
-    "name": "Bella Forsgrén",
-    "contactCompanyCount": 141,
-    "topicCount": 329
+    "contactCompanyCount": 151,
+    "topicCount": 336
   },
   {
     "name": "Tiina Elo",
-    "contactCompanyCount": 143,
-    "topicCount": 328
-  },
-  {
-    "name": "Mia Laiho",
-    "contactCompanyCount": 152,
-    "topicCount": 327
-  },
-  {
-    "name": "Mika Poutala",
-    "contactCompanyCount": 151,
-    "topicCount": 327
-  },
-  {
-    "name": "Hanna Kosonen",
-    "contactCompanyCount": 156,
-    "topicCount": 324
-  },
-  {
-    "name": "Jouni Ovaska",
-    "contactCompanyCount": 157,
-    "topicCount": 321
+    "contactCompanyCount": 149,
+    "topicCount": 336
   },
   {
     "name": "Mika Nykänen",
-    "contactCompanyCount": 156,
-    "topicCount": 320
+    "contactCompanyCount": 162,
+    "topicCount": 333
   },
   {
-    "name": "Henrik Wickström",
-    "contactCompanyCount": 141,
-    "topicCount": 319
+    "name": "Jouni Ovaska",
+    "contactCompanyCount": 162,
+    "topicCount": 332
   },
   {
-    "name": "Heikki Autto",
-    "contactCompanyCount": 138,
-    "topicCount": 314
+    "name": "Hanna Kosonen",
+    "contactCompanyCount": 157,
+    "topicCount": 331
   },
   {
     "name": "Paula Risikko",
-    "contactCompanyCount": 145,
-    "topicCount": 314
-  },
-  {
-    "name": "Riikka Purra",
-    "contactCompanyCount": 154,
-    "topicCount": 314
-  },
-  {
-    "name": "Otto Andersson",
-    "contactCompanyCount": 134,
-    "topicCount": 310
-  },
-  {
-    "name": "Joakim Strand",
-    "contactCompanyCount": 153,
-    "topicCount": 310
-  },
-  {
-    "name": "Pinja Perholehto",
-    "contactCompanyCount": 152,
-    "topicCount": 310
-  },
-  {
-    "name": "Laura Rissanen",
-    "contactCompanyCount": 146,
-    "topicCount": 309
-  },
-  {
-    "name": "Mikko Ollikainen",
-    "contactCompanyCount": 165,
-    "topicCount": 306
-  },
-  {
-    "name": "Jaana Strandman",
-    "contactCompanyCount": 132,
-    "topicCount": 301
+    "contactCompanyCount": 150,
+    "topicCount": 328
   },
   {
     "name": "Joona Räsänen",
-    "contactCompanyCount": 132,
-    "topicCount": 301
+    "contactCompanyCount": 137,
+    "topicCount": 327
   },
   {
-    "name": "Eeva-Johanna Eloranta",
-    "contactCompanyCount": 130,
-    "topicCount": 291
+    "name": "Riikka Purra",
+    "contactCompanyCount": 158,
+    "topicCount": 325
   },
   {
-    "name": "Vesa Kallio",
-    "contactCompanyCount": 122,
-    "topicCount": 290
+    "name": "Joakim Strand",
+    "contactCompanyCount": 157,
+    "topicCount": 322
   },
   {
-    "name": "Marko Kilpi",
-    "contactCompanyCount": 135,
-    "topicCount": 290
+    "name": "Mikko Ollikainen",
+    "contactCompanyCount": 166,
+    "topicCount": 321
   },
   {
-    "name": "Fatim Diarra",
+    "name": "Heikki Autto",
+    "contactCompanyCount": 143,
+    "topicCount": 319
+  },
+  {
+    "name": "Otto Andersson",
+    "contactCompanyCount": 138,
+    "topicCount": 319
+  },
+  {
+    "name": "Laura Rissanen",
+    "contactCompanyCount": 148,
+    "topicCount": 317
+  },
+  {
+    "name": "Pinja Perholehto",
+    "contactCompanyCount": 153,
+    "topicCount": 314
+  },
+  {
+    "name": "Jaana Strandman",
     "contactCompanyCount": 134,
-    "topicCount": 288
+    "topicCount": 310
   },
   {
     "name": "Ville Valkonen",
-    "contactCompanyCount": 138,
-    "topicCount": 286
+    "contactCompanyCount": 146,
+    "topicCount": 305
+  },
+  {
+    "name": "Teemu Kinnari",
+    "contactCompanyCount": 112,
+    "topicCount": 304
+  },
+  {
+    "name": "Marko Kilpi",
+    "contactCompanyCount": 140,
+    "topicCount": 300
+  },
+  {
+    "name": "Eeva-Johanna Eloranta",
+    "contactCompanyCount": 131,
+    "topicCount": 300
+  },
+  {
+    "name": "Vesa Kallio",
+    "contactCompanyCount": 126,
+    "topicCount": 299
   },
   {
     "name": "Anna-Kaisa Ikonen",
-    "contactCompanyCount": 121,
-    "topicCount": 286
+    "contactCompanyCount": 129,
+    "topicCount": 298
   },
   {
-    "name": "Minja Koskela",
-    "contactCompanyCount": 109,
-    "topicCount": 282
+    "name": "Fatim Diarra",
+    "contactCompanyCount": 135,
+    "topicCount": 292
+  },
+  {
+    "name": "Piritta Rantanen",
+    "contactCompanyCount": 114,
+    "topicCount": 291
   },
   {
     "name": "Päivi Nerg",
-    "contactCompanyCount": 129,
-    "topicCount": 281
+    "contactCompanyCount": 134,
+    "topicCount": 289
+  },
+  {
+    "name": "Risto Artjoki",
+    "contactCompanyCount": 124,
+    "topicCount": 289
+  },
+  {
+    "name": "Minja Koskela",
+    "contactCompanyCount": 113,
+    "topicCount": 288
   },
   {
     "name": "Kaisa Juuso",
     "contactCompanyCount": 118,
-    "topicCount": 281
-  },
-  {
-    "name": "Teemu Kinnari",
-    "contactCompanyCount": 109,
-    "topicCount": 279
-  },
-  {
-    "name": "Piritta Rantanen",
-    "contactCompanyCount": 112,
-    "topicCount": 278
-  },
-  {
-    "name": "Risto Artjoki",
-    "contactCompanyCount": 118,
-    "topicCount": 278
-  },
-  {
-    "name": "Lotta Hamari",
-    "contactCompanyCount": 120,
-    "topicCount": 276
-  },
-  {
-    "name": "Miapetra Kumpula-Natri",
-    "contactCompanyCount": 134,
-    "topicCount": 275
-  },
-  {
-    "name": "Sandra Bergqvist",
-    "contactCompanyCount": 109,
-    "topicCount": 275
+    "topicCount": 288
   },
   {
     "name": "Noora Fagerström",
-    "contactCompanyCount": 160,
-    "topicCount": 274
+    "contactCompanyCount": 166,
+    "topicCount": 286
   },
   {
     "name": "Laura Meriluoto",
-    "contactCompanyCount": 118,
-    "topicCount": 274
+    "contactCompanyCount": 121,
+    "topicCount": 286
   },
   {
-    "name": "Riikka Slunga-Poutsalo",
-    "contactCompanyCount": 130,
-    "topicCount": 272
+    "name": "Lotta Hamari",
+    "contactCompanyCount": 122,
+    "topicCount": 284
+  },
+  {
+    "name": "Miapetra Kumpula-Natri",
+    "contactCompanyCount": 137,
+    "topicCount": 284
   },
   {
     "name": "Janne Jukkola",
-    "contactCompanyCount": 121,
-    "topicCount": 270
+    "contactCompanyCount": 125,
+    "topicCount": 281
   },
   {
     "name": "Ari Koponen",
-    "contactCompanyCount": 125,
-    "topicCount": 268
+    "contactCompanyCount": 128,
+    "topicCount": 281
+  },
+  {
+    "name": "Sandra Bergqvist",
+    "contactCompanyCount": 110,
+    "topicCount": 281
   },
   {
     "name": "Pauli Aalto-Setälä",
-    "contactCompanyCount": 146,
-    "topicCount": 267
-  },
-  {
-    "name": "Ritva Elomaa",
-    "contactCompanyCount": 124,
-    "topicCount": 267
-  },
-  {
-    "name": "Kristiina Kokko",
-    "contactCompanyCount": 123,
-    "topicCount": 264
-  },
-  {
-    "name": "Olga Oinas-Panuma",
-    "contactCompanyCount": 116,
-    "topicCount": 263
+    "contactCompanyCount": 151,
+    "topicCount": 280
   },
   {
     "name": "Anders Norrback",
-    "contactCompanyCount": 120,
-    "topicCount": 262
+    "contactCompanyCount": 123,
+    "topicCount": 277
+  },
+  {
+    "name": "Riikka Slunga-Poutsalo",
+    "contactCompanyCount": 133,
+    "topicCount": 276
+  },
+  {
+    "name": "Kristiina Kokko",
+    "contactCompanyCount": 128,
+    "topicCount": 275
+  },
+  {
+    "name": "Ritva Elomaa",
+    "contactCompanyCount": 125,
+    "topicCount": 272
+  },
+  {
+    "name": "Aino-Kaisa Pekonen",
+    "contactCompanyCount": 131,
+    "topicCount": 271
+  },
+  {
+    "name": "Saara Hyrkkö",
+    "contactCompanyCount": 126,
+    "topicCount": 271
+  },
+  {
+    "name": "Petri Honkonen",
+    "contactCompanyCount": 131,
+    "topicCount": 270
+  },
+  {
+    "name": "Olga Oinas-Panuma",
+    "contactCompanyCount": 119,
+    "topicCount": 270
+  },
+  {
+    "name": "Ville Väyrynen",
+    "contactCompanyCount": 130,
+    "topicCount": 268
+  },
+  {
+    "name": "Eveliina Heinäluoma",
+    "contactCompanyCount": 127,
+    "topicCount": 268
+  },
+  {
+    "name": "Anne Kalmari",
+    "contactCompanyCount": 108,
+    "topicCount": 266
   },
   {
     "name": "Eva Biaudet",
-    "contactCompanyCount": 127,
-    "topicCount": 261
+    "contactCompanyCount": 131,
+    "topicCount": 266
+  },
+  {
+    "name": "Milla Lahdenperä",
+    "contactCompanyCount": 121,
+    "topicCount": 262
+  },
+  {
+    "name": "Krista Kiuru",
+    "contactCompanyCount": 128,
+    "topicCount": 262
   },
   {
     "name": "Emma-Stina Vehmanen",
@@ -420,293 +460,288 @@
     "topicCount": 261
   },
   {
-    "name": "Petri Honkonen",
-    "contactCompanyCount": 127,
-    "topicCount": 259
-  },
-  {
-    "name": "Aino-Kaisa Pekonen",
-    "contactCompanyCount": 124,
-    "topicCount": 259
-  },
-  {
-    "name": "Saara Hyrkkö",
-    "contactCompanyCount": 120,
-    "topicCount": 259
-  },
-  {
-    "name": "Eveliina Heinäluoma",
-    "contactCompanyCount": 123,
-    "topicCount": 257
-  },
-  {
     "name": "Timo Mehtälä",
-    "contactCompanyCount": 110,
-    "topicCount": 255
-  },
-  {
-    "name": "Ville Väyrynen",
-    "contactCompanyCount": 125,
-    "topicCount": 255
-  },
-  {
-    "name": "Mai Kivelä",
-    "contactCompanyCount": 105,
-    "topicCount": 255
-  },
-  {
-    "name": "Anne Kalmari",
-    "contactCompanyCount": 105,
-    "topicCount": 253
-  },
-  {
-    "name": "Milla Lahdenperä",
-    "contactCompanyCount": 118,
-    "topicCount": 253
+    "contactCompanyCount": 111,
+    "topicCount": 260
   },
   {
     "name": "Vilhelm Junnila",
-    "contactCompanyCount": 136,
-    "topicCount": 252
+    "contactCompanyCount": 139,
+    "topicCount": 259
   },
   {
-    "name": "Krista Kiuru",
-    "contactCompanyCount": 125,
-    "topicCount": 252
+    "name": "Tuula Haatainen",
+    "contactCompanyCount": 112,
+    "topicCount": 259
   },
   {
-    "name": "Karoliina Partanen",
-    "contactCompanyCount": 109,
-    "topicCount": 250
+    "name": "Mai Kivelä",
+    "contactCompanyCount": 106,
+    "topicCount": 259
+  },
+  {
+    "name": "Mira Nieminen",
+    "contactCompanyCount": 114,
+    "topicCount": 258
+  },
+  {
+    "name": "Lulu Ranne",
+    "contactCompanyCount": 138,
+    "topicCount": 258
   },
   {
     "name": "Tytti Tuppurainen",
+    "contactCompanyCount": 113,
+    "topicCount": 257
+  },
+  {
+    "name": "Aleksi Jäntti",
+    "contactCompanyCount": 130,
+    "topicCount": 256
+  },
+  {
+    "name": "Hanna-Leena Mattila",
+    "contactCompanyCount": 122,
+    "topicCount": 256
+  },
+  {
+    "name": "Karoliina Partanen",
     "contactCompanyCount": 111,
-    "topicCount": 250
+    "topicCount": 256
   },
   {
     "name": "Timo Furuholm",
     "contactCompanyCount": 125,
-    "topicCount": 250
-  },
-  {
-    "name": "Lulu Ranne",
-    "contactCompanyCount": 134,
-    "topicCount": 249
-  },
-  {
-    "name": "Tuula Haatainen",
-    "contactCompanyCount": 109,
-    "topicCount": 248
+    "topicCount": 256
   },
   {
     "name": "Santeri Lohi",
-    "contactCompanyCount": 105,
+    "contactCompanyCount": 107,
+    "topicCount": 256
+  },
+  {
+    "name": "Juha Viitala",
+    "contactCompanyCount": 121,
+    "topicCount": 254
+  },
+  {
+    "name": "Pia Sillanpää",
+    "contactCompanyCount": 134,
+    "topicCount": 252
+  },
+  {
+    "name": "Pihla Keto-Huovinen",
+    "contactCompanyCount": 119,
+    "topicCount": 251
+  },
+  {
+    "name": "Sara Seppänen",
+    "contactCompanyCount": 132,
     "topicCount": 248
   },
   {
-    "name": "Aleksi Jäntti",
+    "name": "Päivi Räsänen",
+    "contactCompanyCount": 121,
+    "topicCount": 246
+  },
+  {
+    "name": "Suna Kymäläinen",
     "contactCompanyCount": 122,
     "topicCount": 246
   },
   {
-    "name": "Hanna-Leena Mattila",
+    "name": "Veronika Honkasalo",
+    "contactCompanyCount": 111,
+    "topicCount": 245
+  },
+  {
+    "name": "Timo Heinonen",
     "contactCompanyCount": 117,
     "topicCount": 244
   },
   {
-    "name": "Sara Seppänen",
-    "contactCompanyCount": 129,
-    "topicCount": 243
-  },
-  {
-    "name": "Pihla Keto-Huovinen",
-    "contactCompanyCount": 114,
-    "topicCount": 242
-  },
-  {
-    "name": "Mira Nieminen",
-    "contactCompanyCount": 108,
-    "topicCount": 242
-  },
-  {
-    "name": "Juha Viitala",
-    "contactCompanyCount": 114,
-    "topicCount": 241
-  },
-  {
-    "name": "Pia Sillanpää",
-    "contactCompanyCount": 127,
+    "name": "Minna Reijonen",
+    "contactCompanyCount": 118,
     "topicCount": 240
   },
   {
-    "name": "Suna Kymäläinen",
+    "name": "Ville Merinen",
     "contactCompanyCount": 117,
-    "topicCount": 237
-  },
-  {
-    "name": "Veronika Honkasalo",
-    "contactCompanyCount": 108,
-    "topicCount": 237
-  },
-  {
-    "name": "Päivi Räsänen",
-    "contactCompanyCount": 117,
-    "topicCount": 235
+    "topicCount": 239
   },
   {
     "name": "Elisa Gebhard",
     "contactCompanyCount": 108,
-    "topicCount": 235
-  },
-  {
-    "name": "Ville Merinen",
-    "contactCompanyCount": 115,
-    "topicCount": 235
-  },
-  {
-    "name": "Laura Ollila",
-    "contactCompanyCount": 107,
-    "topicCount": 232
-  },
-  {
-    "name": "Timo Suhonen",
-    "contactCompanyCount": 90,
-    "topicCount": 231
-  },
-  {
-    "name": "Timo Heinonen",
-    "contactCompanyCount": 112,
-    "topicCount": 229
-  },
-  {
-    "name": "Minna Reijonen",
-    "contactCompanyCount": 111,
-    "topicCount": 229
-  },
-  {
-    "name": "Tarja Filatov",
-    "contactCompanyCount": 94,
-    "topicCount": 229
+    "topicCount": 238
   },
   {
     "name": "Pia Hiltunen",
-    "contactCompanyCount": 107,
-    "topicCount": 228
+    "contactCompanyCount": 108,
+    "topicCount": 238
   },
   {
-    "name": "Mikaela Nylander",
-    "contactCompanyCount": 114,
-    "topicCount": 228
+    "name": "Timo Suhonen",
+    "contactCompanyCount": 92,
+    "topicCount": 238
   },
   {
     "name": "Aki Lindén",
+    "contactCompanyCount": 114,
+    "topicCount": 237
+  },
+  {
+    "name": "Laura Ollila",
     "contactCompanyCount": 111,
-    "topicCount": 227
+    "topicCount": 237
+  },
+  {
+    "name": "Mikaela Nylander",
+    "contactCompanyCount": 116,
+    "topicCount": 236
+  },
+  {
+    "name": "Tarja Filatov",
+    "contactCompanyCount": 96,
+    "topicCount": 235
+  },
+  {
+    "name": "Christoffer Ingo",
+    "contactCompanyCount": 114,
+    "topicCount": 234
+  },
+  {
+    "name": "Eerikki Viljanen",
+    "contactCompanyCount": 99,
+    "topicCount": 232
   },
   {
     "name": "Lauri Lyly",
     "contactCompanyCount": 99,
-    "topicCount": 227
+    "topicCount": 230
   },
   {
-    "name": "Eerikki Viljanen",
-    "contactCompanyCount": 98,
-    "topicCount": 225
+    "name": "Tuomas Kettunen",
+    "contactCompanyCount": 113,
+    "topicCount": 229
   },
   {
     "name": "Jukka Kopra",
-    "contactCompanyCount": 117,
-    "topicCount": 224
+    "contactCompanyCount": 119,
+    "topicCount": 229
+  },
+  {
+    "name": "Sari Tanus",
+    "contactCompanyCount": 107,
+    "topicCount": 229
+  },
+  {
+    "name": "Ville Skinnari",
+    "contactCompanyCount": 109,
+    "topicCount": 228
+  },
+  {
+    "name": "Pia Lohikoski",
+    "contactCompanyCount": 105,
+    "topicCount": 228
   },
   {
     "name": "Marko Asell",
+    "contactCompanyCount": 112,
+    "topicCount": 227
+  },
+  {
+    "name": "Jenni Pitko",
+    "contactCompanyCount": 111,
+    "topicCount": 227
+  },
+  {
+    "name": "Heikki Vestman",
+    "contactCompanyCount": 136,
+    "topicCount": 226
+  },
+  {
+    "name": "Jenna Simula",
+    "contactCompanyCount": 107,
+    "topicCount": 226
+  },
+  {
+    "name": "Seppo Eskelinen",
+    "contactCompanyCount": 101,
+    "topicCount": 226
+  },
+  {
+    "name": "Timo Harakka",
+    "contactCompanyCount": 95,
+    "topicCount": 225
+  },
+  {
+    "name": "Niina Malm",
+    "contactCompanyCount": 97,
+    "topicCount": 225
+  },
+  {
+    "name": "Saku Nikkanen",
     "contactCompanyCount": 110,
-    "topicCount": 224
+    "topicCount": 225
   },
   {
     "name": "Anna-Kristiina Mikkonen",
     "contactCompanyCount": 97,
-    "topicCount": 222
+    "topicCount": 224
   },
   {
-    "name": "Jenni Pitko",
-    "contactCompanyCount": 108,
-    "topicCount": 222
-  },
-  {
-    "name": "Christoffer Ingo",
-    "contactCompanyCount": 110,
-    "topicCount": 221
-  },
-  {
-    "name": "Tuomas Kettunen",
-    "contactCompanyCount": 112,
-    "topicCount": 220
-  },
-  {
-    "name": "Heikki Vestman",
-    "contactCompanyCount": 130,
-    "topicCount": 220
-  },
-  {
-    "name": "Jenna Simula",
-    "contactCompanyCount": 105,
-    "topicCount": 220
-  },
-  {
-    "name": "Niina Malm",
-    "contactCompanyCount": 96,
-    "topicCount": 220
-  },
-  {
-    "name": "Pia Lohikoski",
-    "contactCompanyCount": 104,
-    "topicCount": 220
+    "name": "Tuomas Sorsa",
+    "contactCompanyCount": 107,
+    "topicCount": 224
   },
   {
     "name": "Niko Ohvo",
-    "contactCompanyCount": 101,
-    "topicCount": 220
-  },
-  {
-    "name": "Jorma Piisinen",
-    "contactCompanyCount": 107,
-    "topicCount": 218
-  },
-  {
-    "name": "Seppo Eskelinen",
-    "contactCompanyCount": 97,
-    "topicCount": 218
-  },
-  {
-    "name": "Timo Harakka",
-    "contactCompanyCount": 93,
-    "topicCount": 218
-  },
-  {
-    "name": "Saku Nikkanen",
-    "contactCompanyCount": 108,
-    "topicCount": 218
-  },
-  {
-    "name": "Ville Skinnari",
-    "contactCompanyCount": 108,
-    "topicCount": 218
-  },
-  {
-    "name": "Sari Tanus",
     "contactCompanyCount": 104,
-    "topicCount": 217
+    "topicCount": 224
   },
   {
     "name": "Juha Mäenpää",
-    "contactCompanyCount": 105,
-    "topicCount": 216
+    "contactCompanyCount": 109,
+    "topicCount": 222
   },
   {
     "name": "Niilo Heinonen",
-    "contactCompanyCount": 107,
+    "contactCompanyCount": 108,
+    "topicCount": 221
+  },
+  {
+    "name": "Jorma Piisinen",
+    "contactCompanyCount": 109,
+    "topicCount": 220
+  },
+  {
+    "name": "Maaret Castrén",
+    "contactCompanyCount": 120,
+    "topicCount": 219
+  },
+  {
+    "name": "Jarno Limnell",
+    "contactCompanyCount": 127,
+    "topicCount": 217
+  },
+  {
+    "name": "Jani Kokko",
+    "contactCompanyCount": 96,
+    "topicCount": 217
+  },
+  {
+    "name": "Annika Saarikko",
+    "contactCompanyCount": 101,
+    "topicCount": 216
+  },
+  {
+    "name": "Marjo Loponen",
+    "contactCompanyCount": 105,
+    "topicCount": 215
+  },
+  {
+    "name": "Ville Tavio",
+    "contactCompanyCount": 113,
     "topicCount": 215
   },
   {
@@ -715,129 +750,119 @@
     "topicCount": 214
   },
   {
-    "name": "Annika Saarikko",
-    "contactCompanyCount": 101,
+    "name": "Paula Werning",
+    "contactCompanyCount": 104,
     "topicCount": 214
   },
   {
-    "name": "Jani Kokko",
-    "contactCompanyCount": 94,
-    "topicCount": 212
-  },
-  {
-    "name": "Tuomas Sorsa",
-    "contactCompanyCount": 106,
-    "topicCount": 212
-  },
-  {
-    "name": "Paula Werning",
-    "contactCompanyCount": 102,
-    "topicCount": 211
-  },
-  {
-    "name": "Jarno Limnell",
-    "contactCompanyCount": 121,
-    "topicCount": 209
-  },
-  {
-    "name": "Marjo Loponen",
-    "contactCompanyCount": 102,
-    "topicCount": 209
-  },
-  {
-    "name": "Katri Manninen",
-    "contactCompanyCount": 88,
-    "topicCount": 209
-  },
-  {
-    "name": "Sakari Rokkanen",
-    "contactCompanyCount": 91,
-    "topicCount": 208
-  },
-  {
     "name": "Hanna Holopainen",
-    "contactCompanyCount": 96,
-    "topicCount": 207
-  },
-  {
-    "name": "Ville Tavio",
-    "contactCompanyCount": 111,
-    "topicCount": 207
-  },
-  {
-    "name": "Sheikki Laakso",
-    "contactCompanyCount": 111,
-    "topicCount": 206
-  },
-  {
-    "name": "Johannes Koskinen",
-    "contactCompanyCount": 101,
-    "topicCount": 206
+    "contactCompanyCount": 97,
+    "topicCount": 213
   },
   {
     "name": "Tapio Luoma-aho",
-    "contactCompanyCount": 90,
-    "topicCount": 204
+    "contactCompanyCount": 93,
+    "topicCount": 212
   },
   {
-    "name": "Kim Berg",
-    "contactCompanyCount": 107,
-    "topicCount": 203
+    "name": "Katri Manninen",
+    "contactCompanyCount": 91,
+    "topicCount": 212
   },
   {
     "name": "Antti Häkkänen",
-    "contactCompanyCount": 106,
-    "topicCount": 203
+    "contactCompanyCount": 109,
+    "topicCount": 211
   },
   {
-    "name": "Elina Valtonen",
-    "contactCompanyCount": 93,
-    "topicCount": 203
+    "name": "Sakari Rokkanen",
+    "contactCompanyCount": 92,
+    "topicCount": 211
   },
   {
     "name": "Janne Heikkinen",
-    "contactCompanyCount": 103,
-    "topicCount": 202
+    "contactCompanyCount": 108,
+    "topicCount": 210
+  },
+  {
+    "name": "Kim Berg",
+    "contactCompanyCount": 110,
+    "topicCount": 210
+  },
+  {
+    "name": "Johannes Koskinen",
+    "contactCompanyCount": 104,
+    "topicCount": 210
+  },
+  {
+    "name": "Sheikki Laakso",
+    "contactCompanyCount": 112,
+    "topicCount": 209
+  },
+  {
+    "name": "Elina Valtonen",
+    "contactCompanyCount": 94,
+    "topicCount": 208
   },
   {
     "name": "Mikko Polvinen",
-    "contactCompanyCount": 111,
-    "topicCount": 202
+    "contactCompanyCount": 112,
+    "topicCount": 207
   },
   {
     "name": "Tuula Väätäinen",
-    "contactCompanyCount": 86,
-    "topicCount": 202
-  },
-  {
-    "name": "Maaret Castrén",
-    "contactCompanyCount": 108,
-    "topicCount": 201
-  },
-  {
-    "name": "Ben Zyskowicz",
-    "contactCompanyCount": 110,
-    "topicCount": 201
-  },
-  {
-    "name": "Antti Kangas",
-    "contactCompanyCount": 99,
-    "topicCount": 199
+    "contactCompanyCount": 87,
+    "topicCount": 207
   },
   {
     "name": "Helena Marttila",
-    "contactCompanyCount": 92,
-    "topicCount": 199
-  },
-  {
-    "name": "Ville Vähämäki",
-    "contactCompanyCount": 97,
-    "topicCount": 199
+    "contactCompanyCount": 95,
+    "topicCount": 206
   },
   {
     "name": "Hanna Sarkkinen",
-    "contactCompanyCount": 91,
+    "contactCompanyCount": 95,
+    "topicCount": 206
+  },
+  {
+    "name": "Ben Zyskowicz",
+    "contactCompanyCount": 114,
+    "topicCount": 205
+  },
+  {
+    "name": "Ville Vähämäki",
+    "contactCompanyCount": 102,
+    "topicCount": 204
+  },
+  {
+    "name": "Antti Kangas",
+    "contactCompanyCount": 100,
+    "topicCount": 202
+  },
+  {
+    "name": "Miko Bergbom",
+    "contactCompanyCount": 94,
+    "topicCount": 201
+  },
+  {
+    "name": "Tere Sammallahti",
+    "contactCompanyCount": 126,
+    "topicCount": 200
+  },
+  {
+    "name": "Mikko Savola",
+    "contactCompanyCount": 106,
     "topicCount": 199
+  },
+  {
+    "name": "Teemu Hartikainen",
+    "contactCompanyCount": 103,
+    "topicCount": 199
+  },
+  {
+    "name": "Pia Kauma",
+    "contactCompanyCount": 97,
+    "topicCount": 198
   },
   {
     "name": "Maija Niskala",
@@ -845,39 +870,54 @@
     "topicCount": 197
   },
   {
-    "name": "Tere Sammallahti",
-    "contactCompanyCount": 123,
-    "topicCount": 196
-  },
-  {
-    "name": "Miko Bergbom",
-    "contactCompanyCount": 92,
-    "topicCount": 196
-  },
-  {
-    "name": "Mikko Savola",
-    "contactCompanyCount": 105,
-    "topicCount": 195
-  },
-  {
-    "name": "Teemu Hartikainen",
-    "contactCompanyCount": 102,
-    "topicCount": 195
-  },
-  {
     "name": "Mari Kaunistola",
+    "contactCompanyCount": 108,
+    "topicCount": 196
+  },
+  {
+    "name": "Hannu Hoskonen",
+    "contactCompanyCount": 97,
+    "topicCount": 194
+  },
+  {
+    "name": "Sofia Vikman",
+    "contactCompanyCount": 89,
+    "topicCount": 194
+  },
+  {
+    "name": "Juho Eerola",
+    "contactCompanyCount": 87,
+    "topicCount": 194
+  },
+  {
+    "name": "Laura Huhtasaari",
     "contactCompanyCount": 103,
     "topicCount": 192
   },
   {
-    "name": "Pia Kauma",
-    "contactCompanyCount": 92,
-    "topicCount": 191
+    "name": "Nuutti Hyttinen",
+    "contactCompanyCount": 85,
+    "topicCount": 192
   },
   {
-    "name": "Sofia Vikman",
-    "contactCompanyCount": 86,
-    "topicCount": 191
+    "name": "Susanne Päivärinta",
+    "contactCompanyCount": 100,
+    "topicCount": 190
+  },
+  {
+    "name": "Johanna Ojala-Niemelä",
+    "contactCompanyCount": 93,
+    "topicCount": 190
+  },
+  {
+    "name": "Harry Harkimo",
+    "contactCompanyCount": 93,
+    "topicCount": 189
+  },
+  {
+    "name": "Merja Rasinkangas",
+    "contactCompanyCount": 99,
+    "topicCount": 189
   },
   {
     "name": "Riitta Mäkinen",
@@ -885,144 +925,129 @@
     "topicCount": 189
   },
   {
-    "name": "Hannu Hoskonen",
-    "contactCompanyCount": 96,
-    "topicCount": 188
-  },
-  {
-    "name": "Juho Eerola",
-    "contactCompanyCount": 86,
-    "topicCount": 188
-  },
-  {
     "name": "Hannu Peurasaari",
-    "contactCompanyCount": 77,
-    "topicCount": 186
-  },
-  {
-    "name": "Laura Huhtasaari",
-    "contactCompanyCount": 100,
-    "topicCount": 185
-  },
-  {
-    "name": "Harry Harkimo",
-    "contactCompanyCount": 89,
-    "topicCount": 184
+    "contactCompanyCount": 78,
+    "topicCount": 188
   },
   {
     "name": "Mats Löfström",
-    "contactCompanyCount": 111,
-    "topicCount": 184
-  },
-  {
-    "name": "Johanna Ojala-Niemelä",
-    "contactCompanyCount": 91,
-    "topicCount": 184
+    "contactCompanyCount": 113,
+    "topicCount": 187
   },
   {
     "name": "Pekka Pesonen",
-    "contactCompanyCount": 48,
-    "topicCount": 184
-  },
-  {
-    "name": "Nuutti Hyttinen",
-    "contactCompanyCount": 82,
-    "topicCount": 184
+    "contactCompanyCount": 49,
+    "topicCount": 186
   },
   {
     "name": "Pekka Aittakumpu",
-    "contactCompanyCount": 96,
-    "topicCount": 183
+    "contactCompanyCount": 97,
+    "topicCount": 185
   },
   {
-    "name": "Susanne Päivärinta",
-    "contactCompanyCount": 97,
-    "topicCount": 183
+    "name": "Sanna Antikainen",
+    "contactCompanyCount": 93,
+    "topicCount": 185
+  },
+  {
+    "name": "Jaakko Aromaa",
+    "contactCompanyCount": 86,
+    "topicCount": 185
   },
   {
     "name": "Eemeli Peltonen",
     "contactCompanyCount": 90,
-    "topicCount": 183
-  },
-  {
-    "name": "Merja Rasinkangas",
-    "contactCompanyCount": 97,
-    "topicCount": 183
+    "topicCount": 184
   },
   {
     "name": "Pauli Kiuru",
-    "contactCompanyCount": 80,
-    "topicCount": 180
-  },
-  {
-    "name": "Sanna Antikainen",
-    "contactCompanyCount": 90,
-    "topicCount": 180
-  },
-  {
-    "name": "Jaakko Aromaa",
-    "contactCompanyCount": 82,
-    "topicCount": 178
-  },
-  {
-    "name": "Tuomas Tikkanen",
-    "contactCompanyCount": 79,
-    "topicCount": 178
-  },
-  {
-    "name": "Kaisa Garedew",
-    "contactCompanyCount": 100,
-    "topicCount": 177
-  },
-  {
-    "name": "Kimmo Kiljunen",
-    "contactCompanyCount": 84,
-    "topicCount": 177
-  },
-  {
-    "name": "Timo Jaatinen",
-    "contactCompanyCount": 98,
-    "topicCount": 177
-  },
-  {
-    "name": "Terhi Koulumies",
-    "contactCompanyCount": 88,
-    "topicCount": 175
+    "contactCompanyCount": 81,
+    "topicCount": 183
   },
   {
     "name": "Anne Rintamäki",
-    "contactCompanyCount": 92,
-    "topicCount": 174
+    "contactCompanyCount": 94,
+    "topicCount": 182
   },
   {
-    "name": "Pia Viitanen",
-    "contactCompanyCount": 80,
-    "topicCount": 174
+    "name": "Kimmo Kiljunen",
+    "contactCompanyCount": 86,
+    "topicCount": 182
+  },
+  {
+    "name": "Kaisa Garedew",
+    "contactCompanyCount": 102,
+    "topicCount": 181
   },
   {
     "name": "Johan Kvarnström",
-    "contactCompanyCount": 87,
-    "topicCount": 173
+    "contactCompanyCount": 90,
+    "topicCount": 181
+  },
+  {
+    "name": "Jari Ronkainen",
+    "contactCompanyCount": 81,
+    "topicCount": 181
   },
   {
     "name": "Mika Kari",
     "contactCompanyCount": 86,
-    "topicCount": 173
+    "topicCount": 181
   },
   {
-    "name": "Veijo Niemi",
-    "contactCompanyCount": 71,
-    "topicCount": 172
+    "name": "Pia Viitanen",
+    "contactCompanyCount": 83,
+    "topicCount": 181
+  },
+  {
+    "name": "Timo Jaatinen",
+    "contactCompanyCount": 98,
+    "topicCount": 180
+  },
+  {
+    "name": "Tuomas Tikkanen",
+    "contactCompanyCount": 80,
+    "topicCount": 179
+  },
+  {
+    "name": "Alexander Lång",
+    "contactCompanyCount": 94,
+    "topicCount": 179
+  },
+  {
+    "name": "Terhi Koulumies",
+    "contactCompanyCount": 90,
+    "topicCount": 178
   },
   {
     "name": "Mauri Peltokangas",
-    "contactCompanyCount": 90,
+    "contactCompanyCount": 94,
+    "topicCount": 175
+  },
+  {
+    "name": "Veijo Niemi",
+    "contactCompanyCount": 72,
+    "topicCount": 174
+  },
+  {
+    "name": "Hanna Räsänen",
+    "contactCompanyCount": 86,
+    "topicCount": 173
+  },
+  {
+    "name": "Jari Koskela",
+    "contactCompanyCount": 100,
     "topicCount": 172
   },
   {
     "name": "Pekka Haavisto",
-    "contactCompanyCount": 82,
-    "topicCount": 169
+    "contactCompanyCount": 84,
+    "topicCount": 172
+  },
+  {
+    "name": "Marjo Lindgren",
+    "contactCompanyCount": 101,
+    "topicCount": 171
   },
   {
     "name": "Emmi Venäläinen",
@@ -1030,34 +1055,19 @@
     "topicCount": 169
   },
   {
-    "name": "Marjo Lindgren",
-    "contactCompanyCount": 99,
-    "topicCount": 168
-  },
-  {
-    "name": "Hanna Räsänen",
-    "contactCompanyCount": 83,
-    "topicCount": 167
-  },
-  {
-    "name": "Jari Ronkainen",
-    "contactCompanyCount": 78,
-    "topicCount": 167
-  },
-  {
-    "name": "Alexander Lång",
-    "contactCompanyCount": 86,
+    "name": "Joakim Vigelius",
+    "contactCompanyCount": 87,
     "topicCount": 167
   },
   {
     "name": "Veera Svahn",
-    "contactCompanyCount": 74,
-    "topicCount": 166
+    "contactCompanyCount": 76,
+    "topicCount": 167
   },
   {
-    "name": "Jari Koskela",
-    "contactCompanyCount": 96,
-    "topicCount": 165
+    "name": "Atte Kaleva",
+    "contactCompanyCount": 81,
+    "topicCount": 164
   },
   {
     "name": "Li Andersson",
@@ -1065,84 +1075,79 @@
     "topicCount": 164
   },
   {
-    "name": "Atte Kaleva",
-    "contactCompanyCount": 80,
+    "name": "Juha Hänninen",
+    "contactCompanyCount": 83,
     "topicCount": 162
   },
   {
-    "name": "Joakim Vigelius",
-    "contactCompanyCount": 84,
-    "topicCount": 159
+    "name": "Mika Riipi",
+    "contactCompanyCount": 87,
+    "topicCount": 162
   },
   {
     "name": "Martin Paasi",
-    "contactCompanyCount": 75,
-    "topicCount": 158
-  },
-  {
-    "name": "Anna Kontula",
-    "contactCompanyCount": 71,
-    "topicCount": 158
-  },
-  {
-    "name": "Juha Hänninen",
     "contactCompanyCount": 78,
-    "topicCount": 157
-  },
-  {
-    "name": "Mika Riipi",
-    "contactCompanyCount": 84,
-    "topicCount": 157
-  },
-  {
-    "name": "Mari Rantanen",
-    "contactCompanyCount": 80,
-    "topicCount": 154
+    "topicCount": 162
   },
   {
     "name": "Arja Juvonen",
-    "contactCompanyCount": 83,
-    "topicCount": 153
+    "contactCompanyCount": 84,
+    "topicCount": 162
   },
   {
-    "name": "Sami Savio",
-    "contactCompanyCount": 68,
-    "topicCount": 153
-  },
-  {
-    "name": "Anita Westerholm",
-    "contactCompanyCount": 76,
-    "topicCount": 153
+    "name": "Anna Kontula",
+    "contactCompanyCount": 73,
+    "topicCount": 160
   },
   {
     "name": "Lars Aikala",
-    "contactCompanyCount": 75,
-    "topicCount": 151
+    "contactCompanyCount": 80,
+    "topicCount": 159
   },
   {
-    "name": "Jarmo Lindberg",
-    "contactCompanyCount": 82,
-    "topicCount": 150
+    "name": "Mari Rantanen",
+    "contactCompanyCount": 81,
+    "topicCount": 158
   },
   {
-    "name": "Rami Lehtinen",
-    "contactCompanyCount": 76,
-    "topicCount": 149
+    "name": "Sami Savio",
+    "contactCompanyCount": 72,
+    "topicCount": 157
   },
   {
     "name": "Crista Grönroos",
-    "contactCompanyCount": 87,
+    "contactCompanyCount": 90,
+    "topicCount": 155
+  },
+  {
+    "name": "Anita Westerholm",
+    "contactCompanyCount": 77,
+    "topicCount": 155
+  },
+  {
+    "name": "Jarmo Lindberg",
+    "contactCompanyCount": 83,
+    "topicCount": 154
+  },
+  {
+    "name": "Rami Lehtinen",
+    "contactCompanyCount": 80,
+    "topicCount": 153
+  },
+  {
+    "name": "Mikko Lundén",
+    "contactCompanyCount": 77,
+    "topicCount": 150
+  },
+  {
+    "name": "Leena Meri",
+    "contactCompanyCount": 70,
     "topicCount": 149
   },
   {
     "name": "Tomi Immonen",
-    "contactCompanyCount": 72,
-    "topicCount": 147
-  },
-  {
-    "name": "Mikko Lundén",
-    "contactCompanyCount": 76,
-    "topicCount": 147
+    "contactCompanyCount": 73,
+    "topicCount": 148
   },
   {
     "name": "Maria Ohisalo",
@@ -1153,6 +1158,11 @@
     "name": "Sonja Falk",
     "contactCompanyCount": 79,
     "topicCount": 146
+  },
+  {
+    "name": "Jessi Jokelainen",
+    "contactCompanyCount": 68,
+    "topicCount": 143
   },
   {
     "name": "Merja Kyllönen",
@@ -1170,29 +1180,24 @@
     "topicCount": 142
   },
   {
-    "name": "Leena Meri",
-    "contactCompanyCount": 69,
+    "name": "Iina Mattila",
+    "contactCompanyCount": 55,
     "topicCount": 142
   },
   {
-    "name": "Iina Mattila",
-    "contactCompanyCount": 54,
-    "topicCount": 141
-  },
-  {
-    "name": "Jessi Jokelainen",
-    "contactCompanyCount": 68,
+    "name": "Onni Rostila",
+    "contactCompanyCount": 76,
     "topicCount": 140
   },
   {
-    "name": "Onni Rostila",
-    "contactCompanyCount": 75,
-    "topicCount": 138
+    "name": "Teemu Keskisarja",
+    "contactCompanyCount": 76,
+    "topicCount": 136
   },
   {
-    "name": "Teemu Keskisarja",
-    "contactCompanyCount": 75,
-    "topicCount": 134
+    "name": "Alviina Alametsä",
+    "contactCompanyCount": 74,
+    "topicCount": 131
   },
   {
     "name": "Pekka Toveri",
@@ -1200,19 +1205,24 @@
     "topicCount": 130
   },
   {
-    "name": "Alviina Alametsä",
-    "contactCompanyCount": 72,
+    "name": "Timo Vornanen",
+    "contactCompanyCount": 63,
     "topicCount": 129
   },
   {
-    "name": "Timo Vornanen",
-    "contactCompanyCount": 63,
-    "topicCount": 128
+    "name": "Asmo Maanselkä",
+    "contactCompanyCount": 72,
+    "topicCount": 127
   },
   {
     "name": "Maria Guzenina",
     "contactCompanyCount": 77,
     "topicCount": 126
+  },
+  {
+    "name": "Johannes Yrttiaho",
+    "contactCompanyCount": 62,
+    "topicCount": 125
   },
   {
     "name": "Rosanna Blomster",
@@ -1225,14 +1235,9 @@
     "topicCount": 123
   },
   {
-    "name": "Johannes Yrttiaho",
-    "contactCompanyCount": 62,
-    "topicCount": 123
-  },
-  {
-    "name": "Asmo Maanselkä",
-    "contactCompanyCount": 69,
-    "topicCount": 121
+    "name": "Matias Pajula",
+    "contactCompanyCount": 56,
+    "topicCount": 122
   },
   {
     "name": "Anna-Maja Henriksson",
@@ -1240,54 +1245,49 @@
     "topicCount": 120
   },
   {
-    "name": "Matias Pajula",
-    "contactCompanyCount": 53,
-    "topicCount": 118
+    "name": "Teresa Salminen",
+    "contactCompanyCount": 89,
+    "topicCount": 120
   },
   {
     "name": "Andreas Elfving",
-    "contactCompanyCount": 76,
-    "topicCount": 117
+    "contactCompanyCount": 77,
+    "topicCount": 119
   },
   {
     "name": "Jussi Halla-aho",
-    "contactCompanyCount": 57,
-    "topicCount": 116
+    "contactCompanyCount": 58,
+    "topicCount": 118
   },
   {
     "name": "Marjo Anttoora",
     "contactCompanyCount": 57,
-    "topicCount": 115
+    "topicCount": 117
   },
   {
-    "name": "Teresa Salminen",
-    "contactCompanyCount": 83,
-    "topicCount": 115
+    "name": "Juhapekka Ristola",
+    "contactCompanyCount": 65,
+    "topicCount": 114
   },
   {
     "name": "Riku Huttunen",
     "contactCompanyCount": 50,
-    "topicCount": 109
-  },
-  {
-    "name": "Juhapekka Ristola",
-    "contactCompanyCount": 63,
-    "topicCount": 109
+    "topicCount": 110
   },
   {
     "name": "Minna Kivimäki",
     "contactCompanyCount": 49,
-    "topicCount": 105
+    "topicCount": 106
+  },
+  {
+    "name": "Janna Rantanen",
+    "contactCompanyCount": 58,
+    "topicCount": 104
   },
   {
     "name": "Lisa Palm",
     "contactCompanyCount": 56,
-    "topicCount": 101
-  },
-  {
-    "name": "Janna Rantanen",
-    "contactCompanyCount": 57,
-    "topicCount": 101
+    "topicCount": 102
   },
   {
     "name": "Sebastian Tynkkynen",
@@ -1296,13 +1296,13 @@
   },
   {
     "name": "Petri Peltonen",
-    "contactCompanyCount": 46,
-    "topicCount": 94
+    "contactCompanyCount": 47,
+    "topicCount": 96
   },
   {
     "name": "Antti Vesala",
-    "contactCompanyCount": 49,
-    "topicCount": 93
+    "contactCompanyCount": 50,
+    "topicCount": 95
   },
   {
     "name": "Elisa Tarkiainen",
@@ -1311,22 +1311,37 @@
   },
   {
     "name": "Juha Majanen",
-    "contactCompanyCount": 61,
-    "topicCount": 90
+    "contactCompanyCount": 63,
+    "topicCount": 92
   },
   {
     "name": "Veli-Mikko Niemi",
     "contactCompanyCount": 29,
-    "topicCount": 89
+    "topicCount": 90
   },
   {
     "name": "Tuomas Tähti",
     "contactCompanyCount": 43,
+    "topicCount": 89
+  },
+  {
+    "name": "Benina Uotinen",
+    "contactCompanyCount": 54,
     "topicCount": 88
+  },
+  {
+    "name": "Juhani Damski",
+    "contactCompanyCount": 40,
+    "topicCount": 86
   },
   {
     "name": "Sirkku Linna",
     "contactCompanyCount": 32,
+    "topicCount": 84
+  },
+  {
+    "name": "Pasi Rajala",
+    "contactCompanyCount": 44,
     "topicCount": 84
   },
   {
@@ -1335,33 +1350,23 @@
     "topicCount": 83
   },
   {
-    "name": "Juhani Damski",
-    "contactCompanyCount": 39,
+    "name": "Teija Makkonen",
+    "contactCompanyCount": 55,
     "topicCount": 82
   },
   {
-    "name": "Pasi Rajala",
-    "contactCompanyCount": 43,
-    "topicCount": 80
-  },
-  {
-    "name": "Teija Makkonen",
-    "contactCompanyCount": 53,
+    "name": "Liisa Siika-aho",
+    "contactCompanyCount": 31,
     "topicCount": 79
-  },
-  {
-    "name": "Benina Uotinen",
-    "contactCompanyCount": 51,
-    "topicCount": 78
   },
   {
     "name": "Timo Karhunen",
     "contactCompanyCount": 42,
-    "topicCount": 76
+    "topicCount": 77
   },
   {
-    "name": "Liisa Siika-aho",
-    "contactCompanyCount": 30,
+    "name": "Mika Niemelä",
+    "contactCompanyCount": 54,
     "topicCount": 76
   },
   {
@@ -1370,38 +1375,38 @@
     "topicCount": 75
   },
   {
-    "name": "Mika Niemelä",
-    "contactCompanyCount": 51,
-    "topicCount": 73
+    "name": "Matilda af Hällström",
+    "contactCompanyCount": 35,
+    "topicCount": 75
   },
   {
     "name": "Dani Niskanen",
-    "contactCompanyCount": 43,
-    "topicCount": 72
-  },
-  {
-    "name": "Matilda af Hällström",
-    "contactCompanyCount": 34,
+    "contactCompanyCount": 45,
     "topicCount": 72
   },
   {
     "name": "Terhi Järvikare",
-    "contactCompanyCount": 44,
+    "contactCompanyCount": 45,
+    "topicCount": 71
+  },
+  {
+    "name": "Eemil Nuuttila",
+    "contactCompanyCount": 63,
     "topicCount": 70
   },
   {
     "name": "Elina Pylkkänen",
-    "contactCompanyCount": 33,
-    "topicCount": 67
+    "contactCompanyCount": 35,
+    "topicCount": 70
   },
   {
     "name": "Kirsi Hölttä",
-    "contactCompanyCount": 29,
-    "topicCount": 67
+    "contactCompanyCount": 30,
+    "topicCount": 68
   },
   {
     "name": "Minna Kurki",
-    "contactCompanyCount": 44,
+    "contactCompanyCount": 45,
     "topicCount": 67
   },
   {
@@ -1420,6 +1425,11 @@
     "topicCount": 64
   },
   {
+    "name": "Minna-Mari Kaila",
+    "contactCompanyCount": 22,
+    "topicCount": 64
+  },
+  {
     "name": "Anders Portin",
     "contactCompanyCount": 37,
     "topicCount": 63
@@ -1430,38 +1440,38 @@
     "topicCount": 61
   },
   {
-    "name": "Minna-Mari Kaila",
-    "contactCompanyCount": 20,
-    "topicCount": 60
-  },
-  {
     "name": "Jussi Laatikainen",
     "contactCompanyCount": 45,
     "topicCount": 59
   },
   {
     "name": "Laura Eiro",
-    "contactCompanyCount": 25,
-    "topicCount": 58
-  },
-  {
-    "name": "Eemil Nuuttila",
-    "contactCompanyCount": 53,
-    "topicCount": 58
+    "contactCompanyCount": 26,
+    "topicCount": 59
   },
   {
     "name": "Jan Hjelt",
     "contactCompanyCount": 33,
-    "topicCount": 58
+    "topicCount": 59
   },
   {
     "name": "Markus Liesegang",
     "contactCompanyCount": 28,
-    "topicCount": 55
+    "topicCount": 57
+  },
+  {
+    "name": "Hanna Laine-Nousimaa",
+    "contactCompanyCount": 35,
+    "topicCount": 56
   },
   {
     "name": "Maria Paaso",
     "contactCompanyCount": 26,
+    "topicCount": 54
+  },
+  {
+    "name": "Jari Mäkäräinen",
+    "contactCompanyCount": 29,
     "topicCount": 54
   },
   {
@@ -1475,24 +1485,14 @@
     "topicCount": 53
   },
   {
-    "name": "Jari Mäkäräinen",
-    "contactCompanyCount": 28,
-    "topicCount": 53
-  },
-  {
-    "name": "Hanna Laine-Nousimaa",
-    "contactCompanyCount": 32,
+    "name": "Sabina Lindström",
+    "contactCompanyCount": 25,
     "topicCount": 52
   },
   {
     "name": "Annakaisa Iivari",
     "contactCompanyCount": 13,
     "topicCount": 52
-  },
-  {
-    "name": "Sabina Lindström",
-    "contactCompanyCount": 25,
-    "topicCount": 50
   },
   {
     "name": "Elina Laavi",
@@ -1505,6 +1505,11 @@
     "topicCount": 49
   },
   {
+    "name": "Juuso Kilpinen",
+    "contactCompanyCount": 36,
+    "topicCount": 48
+  },
+  {
     "name": "Oscar Byman",
     "contactCompanyCount": 31,
     "topicCount": 47
@@ -1515,24 +1520,24 @@
     "topicCount": 47
   },
   {
+    "name": "Maija Strandberg",
+    "contactCompanyCount": 26,
+    "topicCount": 46
+  },
+  {
+    "name": "Petri Lempinen",
+    "contactCompanyCount": 26,
+    "topicCount": 45
+  },
+  {
     "name": "Laura Fagerlund",
     "contactCompanyCount": 26,
     "topicCount": 43
   },
   {
-    "name": "Juuso Kilpinen",
-    "contactCompanyCount": 31,
+    "name": "Pauli Kariniemi",
+    "contactCompanyCount": 19,
     "topicCount": 42
-  },
-  {
-    "name": "Petri Lempinen",
-    "contactCompanyCount": 26,
-    "topicCount": 41
-  },
-  {
-    "name": "Maija Strandberg",
-    "contactCompanyCount": 24,
-    "topicCount": 40
   },
   {
     "name": "Riitta Kaivosoja",
@@ -1540,18 +1545,13 @@
     "topicCount": 39
   },
   {
+    "name": "Tarja Haaranen",
+    "contactCompanyCount": 21,
+    "topicCount": 39
+  },
+  {
     "name": "Kai Järvikare",
     "contactCompanyCount": 30,
-    "topicCount": 38
-  },
-  {
-    "name": "Pauli Kariniemi",
-    "contactCompanyCount": 17,
-    "topicCount": 38
-  },
-  {
-    "name": "Tarja Haaranen",
-    "contactCompanyCount": 20,
     "topicCount": 38
   },
   {
@@ -1561,13 +1561,28 @@
   },
   {
     "name": "Jarno Syrjälä",
-    "contactCompanyCount": 20,
+    "contactCompanyCount": 21,
+    "topicCount": 37
+  },
+  {
+    "name": "Olli-Pekka Rantala",
+    "contactCompanyCount": 23,
+    "topicCount": 35
+  },
+  {
+    "name": "Johanna Mantere",
+    "contactCompanyCount": 34,
     "topicCount": 35
   },
   {
     "name": "Esa Pulkkinen",
     "contactCompanyCount": 20,
-    "topicCount": 34
+    "topicCount": 35
+  },
+  {
+    "name": "Eeva-Riitta Pirhonen",
+    "contactCompanyCount": 16,
+    "topicCount": 33
   },
   {
     "name": "Piia Manninen",
@@ -1575,14 +1590,9 @@
     "topicCount": 33
   },
   {
-    "name": "Olli-Pekka Rantala",
-    "contactCompanyCount": 22,
-    "topicCount": 32
-  },
-  {
-    "name": "Eeva-Riitta Pirhonen",
-    "contactCompanyCount": 16,
-    "topicCount": 32
+    "name": "Jukka Salovaara",
+    "contactCompanyCount": 27,
+    "topicCount": 33
   },
   {
     "name": "Alexander Junell",
@@ -1600,8 +1610,8 @@
     "topicCount": 31
   },
   {
-    "name": "Jukka Salovaara",
-    "contactCompanyCount": 25,
+    "name": "Olli Ruutu",
+    "contactCompanyCount": 20,
     "topicCount": 30
   },
   {
@@ -1610,13 +1620,13 @@
     "topicCount": 29
   },
   {
-    "name": "Olli Ruutu",
-    "contactCompanyCount": 20,
+    "name": "Annika Lyytikäinen",
+    "contactCompanyCount": 21,
     "topicCount": 29
   },
   {
-    "name": "Johanna Mantere",
-    "contactCompanyCount": 28,
+    "name": "Teppo Lehtinen",
+    "contactCompanyCount": 19,
     "topicCount": 28
   },
   {
@@ -1625,13 +1635,13 @@
     "topicCount": 27
   },
   {
-    "name": "Teppo Lehtinen",
-    "contactCompanyCount": 19,
-    "topicCount": 27
-  },
-  {
     "name": "Silja Borgarsdóttir Sandelin",
     "contactCompanyCount": 20,
+    "topicCount": 26
+  },
+  {
+    "name": "Annu Jaakkola",
+    "contactCompanyCount": 24,
     "topicCount": 26
   },
   {
@@ -1641,12 +1651,12 @@
   },
   {
     "name": "Leena Mörttinen",
-    "contactCompanyCount": 10,
-    "topicCount": 25
+    "contactCompanyCount": 11,
+    "topicCount": 26
   },
   {
-    "name": "Annu Jaakkola",
-    "contactCompanyCount": 20,
+    "name": "Jorma Waldén",
+    "contactCompanyCount": 15,
     "topicCount": 24
   },
   {
@@ -1660,17 +1670,17 @@
     "topicCount": 22
   },
   {
-    "name": "Annika Lyytikäinen",
+    "name": "Tuomas Tapio",
     "contactCompanyCount": 14,
     "topicCount": 22
   },
   {
-    "name": "Tiina Korhonen",
+    "name": "Toni Ahva",
     "contactCompanyCount": 14,
     "topicCount": 21
   },
   {
-    "name": "Tuomas Tapio",
+    "name": "Tiina Korhonen",
     "contactCompanyCount": 14,
     "topicCount": 21
   },
@@ -1683,11 +1693,6 @@
     "name": "Jarkko Levasma",
     "contactCompanyCount": 16,
     "topicCount": 21
-  },
-  {
-    "name": "Jorma Waldén",
-    "contactCompanyCount": 14,
-    "topicCount": 20
   },
   {
     "name": "Kirsi Pimiä",
@@ -1725,8 +1730,8 @@
     "topicCount": 17
   },
   {
-    "name": "Toni Ahva",
-    "contactCompanyCount": 9,
+    "name": "Johanna Suurpää",
+    "contactCompanyCount": 10,
     "topicCount": 16
   },
   {
@@ -1745,8 +1750,8 @@
     "topicCount": 16
   },
   {
-    "name": "Johanna Suurpää",
-    "contactCompanyCount": 9,
+    "name": "Janne Kuusela",
+    "contactCompanyCount": 8,
     "topicCount": 15
   },
   {
@@ -1755,14 +1760,14 @@
     "topicCount": 15
   },
   {
-    "name": "Janne Kuusela",
+    "name": "Veli-Matti Uski",
     "contactCompanyCount": 8,
     "topicCount": 14
   },
   {
-    "name": "Veli-Matti Uski",
-    "contactCompanyCount": 8,
-    "topicCount": 14
+    "name": "Timo Lankinen",
+    "contactCompanyCount": 9,
+    "topicCount": 13
   },
   {
     "name": "Ville Sipiläinen",
@@ -1775,9 +1780,9 @@
     "topicCount": 12
   },
   {
-    "name": "Timo Lankinen",
-    "contactCompanyCount": 8,
-    "topicCount": 12
+    "name": "Mauri Kontu",
+    "contactCompanyCount": 7,
+    "topicCount": 11
   },
   {
     "name": "Liisa Huhtala",
@@ -1787,6 +1792,11 @@
   {
     "name": "Tiina Kivisaari",
     "contactCompanyCount": 5,
+    "topicCount": 11
+  },
+  {
+    "name": "Heikki Tamminen",
+    "contactCompanyCount": 10,
     "topicCount": 11
   },
   {
@@ -1800,23 +1810,33 @@
     "topicCount": 11
   },
   {
+    "name": "Jari Sinkari",
+    "contactCompanyCount": 5,
+    "topicCount": 10
+  },
+  {
+    "name": "Mikko Koivumaa",
+    "contactCompanyCount": 4,
+    "topicCount": 10
+  },
+  {
     "name": "Anu Nousiainen",
     "contactCompanyCount": 6,
     "topicCount": 10
   },
   {
-    "name": "Heikki Tamminen",
+    "name": "Tarik Ahsanullah",
+    "contactCompanyCount": 9,
+    "topicCount": 10
+  },
+  {
+    "name": "Riitta Kaarisalo",
+    "contactCompanyCount": 3,
+    "topicCount": 9
+  },
+  {
+    "name": "Matti Sarasmaa",
     "contactCompanyCount": 7,
-    "topicCount": 9
-  },
-  {
-    "name": "Jari Sinkari",
-    "contactCompanyCount": 5,
-    "topicCount": 9
-  },
-  {
-    "name": "Mikko Koivumaa",
-    "contactCompanyCount": 4,
     "topicCount": 9
   },
   {
@@ -1850,11 +1870,6 @@
     "topicCount": 8
   },
   {
-    "name": "Matti Sarasmaa",
-    "contactCompanyCount": 6,
-    "topicCount": 8
-  },
-  {
     "name": "Marina Erhola",
     "contactCompanyCount": 6,
     "topicCount": 8
@@ -1875,6 +1890,11 @@
     "topicCount": 7
   },
   {
+    "name": "Olli Kantanen",
+    "contactCompanyCount": 4,
+    "topicCount": 7
+  },
+  {
     "name": "Sanna Puura",
     "contactCompanyCount": 4,
     "topicCount": 6
@@ -1890,12 +1910,22 @@
     "topicCount": 6
   },
   {
-    "name": "Minna Saario",
+    "name": "Miikka Rainiala",
     "contactCompanyCount": 3,
     "topicCount": 5
   },
   {
-    "name": "Olli Kantanen",
+    "name": "Heidi Backman",
+    "contactCompanyCount": 5,
+    "topicCount": 5
+  },
+  {
+    "name": "Jukka Rantala",
+    "contactCompanyCount": 4,
+    "topicCount": 5
+  },
+  {
+    "name": "Minna Saario",
     "contactCompanyCount": 3,
     "topicCount": 5
   },
@@ -1920,18 +1950,23 @@
     "topicCount": 4
   },
   {
+    "name": "Kirsti Laine-Hendolin",
+    "contactCompanyCount": 3,
+    "topicCount": 4
+  },
+  {
     "name": "Jukka Aalto",
     "contactCompanyCount": 2,
     "topicCount": 4
   },
   {
-    "name": "Jukka Rantala",
+    "name": "Juha Sarkio",
     "contactCompanyCount": 3,
     "topicCount": 4
   },
   {
-    "name": "Juha Sarkio",
-    "contactCompanyCount": 3,
+    "name": "Alexis Vartiainen",
+    "contactCompanyCount": 4,
     "topicCount": 4
   },
   {
@@ -1943,6 +1978,11 @@
     "name": "Eero Laesterä",
     "contactCompanyCount": 3,
     "topicCount": 4
+  },
+  {
+    "name": "Anette Karlsson",
+    "contactCompanyCount": 3,
+    "topicCount": 3
   },
   {
     "name": "Minna Polvinen",
@@ -2000,13 +2040,28 @@
     "topicCount": 2
   },
   {
+    "name": "Jesse Horsma",
+    "contactCompanyCount": 1,
+    "topicCount": 2
+  },
+  {
+    "name": "Tommi Terä",
+    "contactCompanyCount": 2,
+    "topicCount": 2
+  },
+  {
     "name": "Raimo Luoma",
     "contactCompanyCount": 2,
     "topicCount": 2
   },
   {
-    "name": "Kirsti Laine-Hendolin",
-    "contactCompanyCount": 1,
+    "name": "Rosanna Blomster-Bröckl",
+    "contactCompanyCount": 3,
+    "topicCount": 2
+  },
+  {
+    "name": "Emma Hannonen",
+    "contactCompanyCount": 2,
     "topicCount": 2
   },
   {
@@ -2016,6 +2071,11 @@
   },
   {
     "name": "Teemu Penttilä",
+    "contactCompanyCount": 1,
+    "topicCount": 2
+  },
+  {
+    "name": "Lotta Laitinen",
     "contactCompanyCount": 1,
     "topicCount": 2
   },
@@ -2035,12 +2095,37 @@
     "topicCount": 2
   },
   {
+    "name": "Jussi Virsunen",
+    "contactCompanyCount": 1,
+    "topicCount": 2
+  },
+  {
+    "name": "Annika Hoffrén ",
+    "contactCompanyCount": 1,
+    "topicCount": 1
+  },
+  {
     "name": "Jyrki Kangas",
     "contactCompanyCount": 1,
     "topicCount": 1
   },
   {
     "name": "Markku Hassinen",
+    "contactCompanyCount": 1,
+    "topicCount": 1
+  },
+  {
+    "name": "Asseri Kinnunen",
+    "contactCompanyCount": 1,
+    "topicCount": 1
+  },
+  {
+    "name": "Matias Turkkila",
+    "contactCompanyCount": 1,
+    "topicCount": 1
+  },
+  {
+    "name": "Tero Meltti",
     "contactCompanyCount": 1,
     "topicCount": 1
   },
@@ -2055,32 +2140,7 @@
     "topicCount": 0
   },
   {
-    "name": "Mauri Kontu",
-    "contactCompanyCount": 0,
-    "topicCount": 0
-  },
-  {
-    "name": "Riitta Kaarisalo",
-    "contactCompanyCount": 0,
-    "topicCount": 0
-  },
-  {
-    "name": "Anette Karlsson",
-    "contactCompanyCount": 0,
-    "topicCount": 0
-  },
-  {
-    "name": "Jesse Horsma",
-    "contactCompanyCount": 0,
-    "topicCount": 0
-  },
-  {
-    "name": "Miikka Rainiala",
-    "contactCompanyCount": 0,
-    "topicCount": 0
-  },
-  {
-    "name": "Tommi Terä",
+    "name": "Jonas Liimatta",
     "contactCompanyCount": 0,
     "topicCount": 0
   },
@@ -2090,27 +2150,12 @@
     "topicCount": 0
   },
   {
-    "name": "Annika Hoffrén ",
+    "name": "Sebastian Hielm",
     "contactCompanyCount": 0,
     "topicCount": 0
   },
   {
     "name": "Anne Hallavainio",
-    "contactCompanyCount": 0,
-    "topicCount": 0
-  },
-  {
-    "name": "Heidi Backman",
-    "contactCompanyCount": 0,
-    "topicCount": 0
-  },
-  {
-    "name": "Rosanna Blomster-Bröckl",
-    "contactCompanyCount": 0,
-    "topicCount": 0
-  },
-  {
-    "name": "Emma Hannonen",
     "contactCompanyCount": 0,
     "topicCount": 0
   },
@@ -2175,17 +2220,7 @@
     "topicCount": 0
   },
   {
-    "name": "Asseri Kinnunen",
-    "contactCompanyCount": 0,
-    "topicCount": 0
-  },
-  {
     "name": "Tiina Hellgrén",
-    "contactCompanyCount": 0,
-    "topicCount": 0
-  },
-  {
-    "name": "Lotta Laitinen",
     "contactCompanyCount": 0,
     "topicCount": 0
   },
@@ -2221,31 +2256,6 @@
   },
   {
     "name": "- ",
-    "contactCompanyCount": 0,
-    "topicCount": 0
-  },
-  {
-    "name": "Matias Turkkila",
-    "contactCompanyCount": 0,
-    "topicCount": 0
-  },
-  {
-    "name": "Alexis Vartiainen",
-    "contactCompanyCount": 0,
-    "topicCount": 0
-  },
-  {
-    "name": "Jussi Virsunen",
-    "contactCompanyCount": 0,
-    "topicCount": 0
-  },
-  {
-    "name": "Tero Meltti",
-    "contactCompanyCount": 0,
-    "topicCount": 0
-  },
-  {
-    "name": "Tarik Ahsanullaha",
     "contactCompanyCount": 0,
     "topicCount": 0
   }

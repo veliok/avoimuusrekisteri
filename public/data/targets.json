@@ -1166,6 +1166,21 @@
   },
   {
     "id": [
+      3934,
+      3773
+    ],
+    "organization": [
+      "Oikeusministeriö (OM)"
+    ],
+    "department": [],
+    "unit": [],
+    "title": [
+      "Erityisavustaja "
+    ],
+    "name": "Annika Hoffrén "
+  },
+  {
+    "id": [
       755,
       46,
       4232,
@@ -6451,28 +6466,6 @@
   },
   {
     "id": [
-      4473,
-      3498,
-      2434,
-      960,
-      251
-    ],
-    "organization": [
-      "Maa- ja metsätalousministeriö (MMM)"
-    ],
-    "department": [
-      "Johto"
-    ],
-    "unit": [
-      "Johto"
-    ],
-    "title": [
-      "Erityisavustaja"
-    ],
-    "name": "Marjo Anttoora"
-  },
-  {
-    "id": [
       3970,
       3798
     ],
@@ -7230,6 +7223,28 @@
   },
   {
     "id": [
+      4473,
+      3498,
+      2434,
+      960,
+      251
+    ],
+    "organization": [
+      "Maa- ja metsätalousministeriö (MMM)"
+    ],
+    "department": [
+      "Johto"
+    ],
+    "unit": [
+      "Johto"
+    ],
+    "title": [
+      "Erityisavustaja"
+    ],
+    "name": "Marjo Anttoora"
+  },
+  {
+    "id": [
       4470,
       3195,
       2432,
@@ -7316,28 +7331,6 @@
       "Erityisavustaja"
     ],
     "name": "Tapio Luoma-aho"
-  },
-  {
-    "id": [
-      4472,
-      3497,
-      2433,
-      959,
-      250
-    ],
-    "organization": [
-      "Maa- ja metsätalousministeriö (MMM)"
-    ],
-    "department": [
-      "Johto"
-    ],
-    "unit": [
-      "Johto"
-    ],
-    "title": [
-      "Erityisavustaja"
-    ],
-    "name": "Iina Mattila"
   },
   {
     "id": [
@@ -7430,10 +7423,42 @@
     "name": "Pekka Timonen"
   },
   {
+    "id": 4488,
+    "organization": "Maa- ja metsätalousministeriö (MMM)",
+    "department": "",
+    "unit": "EU-koordinaation ja kansainvälisten asioiden yksikkö",
+    "title": "",
+    "name": ""
+  },
+  {
     "id": 4497,
     "organization": "Maa- ja metsätalousministeriö (MMM)",
-    "department": "Hallinto- ja kehittämistoimiala",
-    "unit": "Henkilöstö- ja hallintoyksikkö",
+    "department": "",
+    "unit": "Henkilöstö-, tieto- ja yleishallintoyksikkö",
+    "title": "",
+    "name": ""
+  },
+  {
+    "id": 4496,
+    "organization": "Maa- ja metsätalousministeriö (MMM)",
+    "department": "",
+    "unit": "Ohjaus-, talous- ja suunnitteluyksikkö",
+    "title": "",
+    "name": ""
+  },
+  {
+    "id": 4495,
+    "organization": "Maa- ja metsätalousministeriö (MMM)",
+    "department": "",
+    "unit": "Oikeudellinen yksikkö",
+    "title": "",
+    "name": ""
+  },
+  {
+    "id": 4499,
+    "organization": "Maa- ja metsätalousministeriö (MMM)",
+    "department": "",
+    "unit": "Viestintäyksikkö",
     "title": "",
     "name": ""
   },
@@ -7470,14 +7495,6 @@
     "name": ""
   },
   {
-    "id": 4498,
-    "organization": "Maa- ja metsätalousministeriö (MMM)",
-    "department": "Hallinto- ja kehittämistoimiala",
-    "unit": "Ohjaus- ja talousyksikkö",
-    "title": "",
-    "name": ""
-  },
-  {
     "id": 3522,
     "organization": "Maa- ja metsätalousministeriö (MMM)",
     "department": "Hallinto- ja kehittämistoimiala",
@@ -7506,14 +7523,6 @@
     "organization": "Maa- ja metsätalousministeriö (MMM)",
     "department": "Hallinto- ja kehittämistoimiala",
     "unit": "Ohjaus- ja talousyksikkö",
-    "title": "",
-    "name": ""
-  },
-  {
-    "id": 4499,
-    "organization": "Maa- ja metsätalousministeriö (MMM)",
-    "department": "Hallinto- ja kehittämistoimiala",
-    "unit": "Viestintäyksikkö",
     "title": "",
     "name": ""
   },
@@ -7591,7 +7600,22 @@
   },
   {
     "id": [
-      4489,
+      4489
+    ],
+    "organization": [
+      "Maa- ja metsätalousministeriö (MMM)"
+    ],
+    "department": [
+      "Luonnonvaraosasto"
+    ],
+    "unit": [],
+    "title": [
+      "Osastopäällikkö"
+    ],
+    "name": "Jonas Liimatta"
+  },
+  {
+    "id": [
       3766,
       3763
     ],
@@ -7626,14 +7650,6 @@
       "Osastopäällikkö"
     ],
     "name": "Tuula Packalen"
-  },
-  {
-    "id": 4491,
-    "organization": "Maa- ja metsätalousministeriö (MMM)",
-    "department": "Luonnonvaraosasto",
-    "unit": "Elinkeinokalatalousyksikkö",
-    "title": "",
-    "name": ""
   },
   {
     "id": 3515,
@@ -7708,10 +7724,10 @@
     "name": ""
   },
   {
-    "id": 4493,
+    "id": 4532,
     "organization": "Maa- ja metsätalousministeriö (MMM)",
     "department": "Luonnonvaraosasto",
-    "unit": "Luonnonvara- ja vesitalousyksikkö",
+    "unit": "Ilmasto-, luonto- ja maankäyttöyksikkö",
     "title": "",
     "name": ""
   },
@@ -7748,14 +7764,6 @@
     "name": ""
   },
   {
-    "id": 4494,
-    "organization": "Maa- ja metsätalousministeriö (MMM)",
-    "department": "Luonnonvaraosasto",
-    "unit": "Metsä- ja biotalousyksikkö",
-    "title": "",
-    "name": ""
-  },
-  {
     "id": 3518,
     "organization": "Maa- ja metsätalousministeriö (MMM)",
     "department": "Luonnonvaraosasto",
@@ -7788,10 +7796,10 @@
     "name": ""
   },
   {
-    "id": 4495,
+    "id": 4494,
     "organization": "Maa- ja metsätalousministeriö (MMM)",
     "department": "Luonnonvaraosasto",
-    "unit": "Oikeudellinen yksikkö",
+    "unit": "Metsäbiotalousyksikkö",
     "title": "",
     "name": ""
   },
@@ -7828,14 +7836,6 @@
     "name": ""
   },
   {
-    "id": 4496,
-    "organization": "Maa- ja metsätalousministeriö (MMM)",
-    "department": "Luonnonvaraosasto",
-    "unit": "Suunnitteluyksikkö",
-    "title": "",
-    "name": ""
-  },
-  {
     "id": 3520,
     "organization": "Maa- ja metsätalousministeriö (MMM)",
     "department": "Luonnonvaraosasto",
@@ -7864,6 +7864,77 @@
     "organization": "Maa- ja metsätalousministeriö (MMM)",
     "department": "Luonnonvaraosasto",
     "unit": "Suunnitteluyksikkö",
+    "title": "",
+    "name": ""
+  },
+  {
+    "id": 4493,
+    "organization": "Maa- ja metsätalousministeriö (MMM)",
+    "department": "Luonnonvaraosasto",
+    "unit": "Vesitalousyksikkö",
+    "title": "",
+    "name": ""
+  },
+  {
+    "id": 4531,
+    "organization": "Maa- ja metsätalousministeriö (MMM)",
+    "department": "Maa- ja kalatalouselinkeino-osasto",
+    "unit": "",
+    "title": "",
+    "name": ""
+  },
+  {
+    "id": [
+      4533,
+      3503,
+      2440,
+      966,
+      257
+    ],
+    "organization": [
+      "Maa- ja metsätalousministeriö (MMM)"
+    ],
+    "department": [
+      "Maa- ja kalatalouselinkeino-osasto",
+      "Ruokaosasto"
+    ],
+    "unit": [
+      "Ruokaosasto"
+    ],
+    "title": [
+      "Osastopäällikkö"
+    ],
+    "name": "Minna-Mari Kaila"
+  },
+  {
+    "id": 4491,
+    "organization": "Maa- ja metsätalousministeriö (MMM)",
+    "department": "Maa- ja kalatalouselinkeino-osasto",
+    "unit": "Elinkeinokalatalousyksikkö",
+    "title": "",
+    "name": ""
+  },
+  {
+    "id": 4487,
+    "organization": "Maa- ja metsätalousministeriö (MMM)",
+    "department": "Maa- ja kalatalouselinkeino-osasto",
+    "unit": "Koordinaatioyksikkö",
+    "title": "",
+    "name": ""
+  },
+  {
+    "id": 4483,
+    "organization": "Maa- ja metsätalousministeriö (MMM)",
+    "department": "Maa- ja kalatalouselinkeino-osasto",
+    "unit": "Maaseudun kehittämisyksikkö",
+    "title": "",
+    "name": ""
+  },
+  {
+    "id": 4484,
+    "organization": "Maa- ja metsätalousministeriö (MMM)",
+    "department": "Maa- ja kalatalouselinkeino-osasto",
+    "unit": "Maatalousyksikkö",
     "title": "",
     "name": ""
   },
@@ -7941,10 +8012,80 @@
     "name": "Raimo Luoma"
   },
   {
+    "id": [
+      4472,
+      3497,
+      2433,
+      959,
+      250
+    ],
+    "organization": [
+      "Maa- ja metsätalousministeriö (MMM)"
+    ],
+    "department": [
+      "Johto"
+    ],
+    "unit": [
+      "Johto"
+    ],
+    "title": [
+      "Erityisavustaja"
+    ],
+    "name": "Iina Mattila"
+  },
+  {
     "id": 4480,
     "organization": "Maa- ja metsätalousministeriö (MMM)",
-    "department": "Ruokaosasto",
+    "department": "Ruoka- ja tutkimusosasto",
     "unit": "",
+    "title": "",
+    "name": ""
+  },
+  {
+    "id": [
+      4479
+    ],
+    "organization": [
+      "Maa- ja metsätalousministeriö (MMM)"
+    ],
+    "department": [
+      "Ruoka- ja tutkimusosasto"
+    ],
+    "unit": [],
+    "title": [
+      "Osastopäällikkö"
+    ],
+    "name": "Sebastian Hielm"
+  },
+  {
+    "id": 4482,
+    "organization": "Maa- ja metsätalousministeriö (MMM)",
+    "department": "Ruoka- ja tutkimusosasto",
+    "unit": "Eläin- ja kasvinterveyden yksikkö",
+    "title": "",
+    "name": ""
+  },
+  {
+    "id": 4481,
+    "organization": "Maa- ja metsätalousministeriö (MMM)",
+    "department": "Ruoka- ja tutkimusosasto",
+    "unit": "Elintarviketurvallisuusyksikkö",
+    "title": "",
+    "name": ""
+  },
+  {
+    "id": 4485,
+    "organization": "Maa- ja metsätalousministeriö (MMM)",
+    "department": "Ruoka- ja tutkimusosasto",
+    "unit": "Markkinayksikkö",
+    "title": "",
+    "name": ""
+  },
+  {
+    "id": 4500,
+    "organization": "Maa- ja metsätalousministeriö (MMM)",
+    "department": "Ruoka- ja tutkimusosasto",
+    "unit": "Tutkimus- ja maanmittausyksikkö",
     "title": "",
     "name": ""
   },
@@ -7981,51 +8122,6 @@
     "name": ""
   },
   {
-    "id": [
-      3934,
-      3773
-    ],
-    "organization": [
-      "Oikeusministeriö (OM)"
-    ],
-    "department": [],
-    "unit": [],
-    "title": [
-      "Erityisavustaja "
-    ],
-    "name": "Annika Hoffrén "
-  },
-  {
-    "id": [
-      4479,
-      3503,
-      2440,
-      966,
-      257
-    ],
-    "organization": [
-      "Maa- ja metsätalousministeriö (MMM)"
-    ],
-    "department": [
-      "Ruokaosasto"
-    ],
-    "unit": [
-      "Ruokaosasto"
-    ],
-    "title": [
-      "Osastopäällikkö"
-    ],
-    "name": "Minna-Mari Kaila"
-  },
-  {
-    "id": 4482,
-    "organization": "Maa- ja metsätalousministeriö (MMM)",
-    "department": "Ruokaosasto",
-    "unit": "Eläin- ja kasvinterveyden yksikkö",
-    "title": "",
-    "name": ""
-  },
-  {
     "id": 3506,
     "organization": "Maa- ja metsätalousministeriö (MMM)",
     "department": "Ruokaosasto",
@@ -8054,14 +8150,6 @@
     "organization": "Maa- ja metsätalousministeriö (MMM)",
     "department": "Ruokaosasto",
     "unit": "Eläin- ja kasvinterveyden yksikkö",
-    "title": "",
-    "name": ""
-  },
-  {
-    "id": 4481,
-    "organization": "Maa- ja metsätalousministeriö (MMM)",
-    "department": "Ruokaosasto",
-    "unit": "Elintarviketurvallisuusyksikkö",
     "title": "",
     "name": ""
   },
@@ -8098,14 +8186,6 @@
     "name": ""
   },
   {
-    "id": 4488,
-    "organization": "Maa- ja metsätalousministeriö (MMM)",
-    "department": "Ruokaosasto",
-    "unit": "EU-koordinaation ja kansainvälisten asioiden yksikkö",
-    "title": "",
-    "name": ""
-  },
-  {
     "id": 3512,
     "organization": "Maa- ja metsätalousministeriö (MMM)",
     "department": "Ruokaosasto",
@@ -8134,14 +8214,6 @@
     "organization": "Maa- ja metsätalousministeriö (MMM)",
     "department": "Ruokaosasto",
     "unit": "EU-koordinaation ja kansainvälisten asioiden yksikkö",
-    "title": "",
-    "name": ""
-  },
-  {
-    "id": 4483,
-    "organization": "Maa- ja metsätalousministeriö (MMM)",
-    "department": "Ruokaosasto",
-    "unit": "Maaseudun kehittämisyksikkö",
     "title": "",
     "name": ""
   },
@@ -8178,14 +8250,6 @@
     "name": ""
   },
   {
-    "id": 4484,
-    "organization": "Maa- ja metsätalousministeriö (MMM)",
-    "department": "Ruokaosasto",
-    "unit": "Maatalousyksikkö",
-    "title": "",
-    "name": ""
-  },
-  {
     "id": 3508,
     "organization": "Maa- ja metsätalousministeriö (MMM)",
     "department": "Ruokaosasto",
@@ -8214,14 +8278,6 @@
     "organization": "Maa- ja metsätalousministeriö (MMM)",
     "department": "Ruokaosasto",
     "unit": "Maatalousyksikkö",
-    "title": "",
-    "name": ""
-  },
-  {
-    "id": 4485,
-    "organization": "Maa- ja metsätalousministeriö (MMM)",
-    "department": "Ruokaosasto",
-    "unit": "Markkinayksikkö",
     "title": "",
     "name": ""
   },
@@ -8258,14 +8314,6 @@
     "name": ""
   },
   {
-    "id": 4486,
-    "organization": "Maa- ja metsätalousministeriö (MMM)",
-    "department": "Ruokaosasto",
-    "unit": "Oikeudellinen yksikkö",
-    "title": "",
-    "name": ""
-  },
-  {
     "id": 3510,
     "organization": "Maa- ja metsätalousministeriö (MMM)",
     "department": "Ruokaosasto",
@@ -8294,14 +8342,6 @@
     "organization": "Maa- ja metsätalousministeriö (MMM)",
     "department": "Ruokaosasto",
     "unit": "Oikeudellinen yksikkö",
-    "title": "",
-    "name": ""
-  },
-  {
-    "id": 4487,
-    "organization": "Maa- ja metsätalousministeriö (MMM)",
-    "department": "Ruokaosasto",
-    "unit": "Suunnitteluyksikkö",
     "title": "",
     "name": ""
   },
@@ -8338,14 +8378,6 @@
     "name": ""
   },
   {
-    "id": 4500,
-    "organization": "Maa- ja metsätalousministeriö (MMM)",
-    "department": "Tieto- ja tutkimustoimiala",
-    "unit": "Tietohallinto- ja maanmittausyksikkö",
-    "title": "",
-    "name": ""
-  },
-  {
     "id": 3524,
     "organization": "Maa- ja metsätalousministeriö (MMM)",
     "department": "Tieto- ja tutkimustoimiala",
@@ -8374,14 +8406,6 @@
     "organization": "Maa- ja metsätalousministeriö (MMM)",
     "department": "Tieto- ja tutkimustoimiala",
     "unit": "Tietohallinto- ja maanmittausyksikkö",
-    "title": "",
-    "name": ""
-  },
-  {
-    "id": 4501,
-    "organization": "Maa- ja metsätalousministeriö (MMM)",
-    "department": "Tieto- ja tutkimustoimiala",
-    "unit": "Tutkimus- ja oikeusyksikkö",
     "title": "",
     "name": ""
   },
@@ -10427,10 +10451,10 @@
   },
   {
     "id": [
-      3382,
       3021,
       4420,
-      3808
+      3808,
+      3382
     ],
     "organization": [
       "Opetus- ja kulttuuriministeriö (OKM)"
@@ -20980,9 +21004,9 @@
   },
   {
     "id": [
-      3686,
       4391,
       3803,
+      3686,
       2863,
       592,
       1301
@@ -20997,7 +21021,6 @@
       "Julkisen hallinnon tieto- ja viestintätekninen osasto"
     ],
     "title": [
-      "Osastopäällikkö, ICT-johtaja",
       "Osastopäällikkö, ICT-johtaja, ylijohtaja",
       "ICT-johtaja, ylijohtaja",
       "Osastopäällikkö"
@@ -22530,7 +22553,7 @@
     "title": [
       "Erityisavustaja"
     ],
-    "name": "Tarik Ahsanullaha"
+    "name": "Tarik Ahsanullah"
   },
   {
     "id": [
