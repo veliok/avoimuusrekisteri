@@ -1004,6 +1004,32 @@
     "name": ""
   },
   {
+    "id": [
+      4535,
+      4534,
+      826,
+      117,
+      4257,
+      3117,
+      2730
+    ],
+    "organization": [
+      "Eduskunta"
+    ],
+    "department": [
+      "Eduskuntaryhmä",
+      "Keskustan eduskuntaryhmä",
+      "Perussuomalaisten eduskuntaryhmä"
+    ],
+    "unit": [
+      "Perussuomalaisten eduskuntaryhmä"
+    ],
+    "title": [
+      "Kansanedustaja"
+    ],
+    "name": "Mikko Polvinen"
+  },
+  {
     "id": 2257,
     "organization": "Eduskunta",
     "department": "Eduskunta",
@@ -1077,38 +1103,19 @@
   },
   {
     "id": [
-      2496,
-      2259,
-      2258
-    ],
-    "organization": [
-      "Työ- ja elinkeinoministeriö (TEM)"
-    ],
-    "department": [
-      "Työ- ja elinkeinoministeriö"
-    ],
-    "unit": [
-      "Selvityshenkilö"
-    ],
-    "title": [
-      "Selvityshenkilö"
-    ],
-    "name": "Jukka Ahtela"
-  },
-  {
-    "id": [
       754,
       45,
+      2306,
       4231,
-      3091,
-      2306
+      3091
     ],
     "organization": [
       "Eduskunta"
     ],
     "department": [
       "Eduskuntaryhmä",
-      "Keskustan eduskuntaryhmä"
+      "Keskustan eduskuntaryhmä",
+      "Perussuomalaisten eduskuntaryhmä"
     ],
     "unit": [
       "Keskustan eduskuntaryhmä"
@@ -3289,6 +3296,29 @@
   },
   {
     "id": [
+      869,
+      160,
+      4069,
+      3260,
+      2322
+    ],
+    "organization": [
+      "Eduskunta"
+    ],
+    "department": [
+      "Eduskuntaryhmä",
+      "Sosialidemokraattinen eduskuntaryhmä"
+    ],
+    "unit": [
+      "Sosialidemokraattinen eduskuntaryhmä"
+    ],
+    "title": [
+      "Kansanedustaja"
+    ],
+    "name": "Johannes Koskinen"
+  },
+  {
+    "id": [
       867,
       158,
       4067,
@@ -3743,29 +3773,6 @@
       "Kansanedustaja"
     ],
     "name": "Jorma Piisinen"
-  },
-  {
-    "id": [
-      826,
-      117,
-      4257,
-      3117,
-      2730
-    ],
-    "organization": [
-      "Eduskunta"
-    ],
-    "department": [
-      "Eduskuntaryhmä",
-      "Perussuomalaisten eduskuntaryhmä"
-    ],
-    "unit": [
-      "Perussuomalaisten eduskuntaryhmä"
-    ],
-    "title": [
-      "Kansanedustaja"
-    ],
-    "name": "Mikko Polvinen"
   },
   {
     "id": [
@@ -4472,26 +4479,26 @@
   },
   {
     "id": [
-      869,
-      160,
-      4069,
-      3260,
-      2322
+      902,
+      193,
+      4101,
+      3293,
+      2356
     ],
     "organization": [
       "Eduskunta"
     ],
     "department": [
       "Eduskuntaryhmä",
-      "Sosialidemokraattinen eduskuntaryhmä"
+      "Vasemmistoliiton eduskuntaryhmä"
     ],
     "unit": [
-      "Sosialidemokraattinen eduskuntaryhmä"
+      "Vasemmistoliiton eduskuntaryhmä"
     ],
     "title": [
       "Kansanedustaja"
     ],
-    "name": "Johannes Koskinen"
+    "name": "Anna Kontula"
   },
   {
     "id": [
@@ -5284,26 +5291,20 @@
   },
   {
     "id": [
-      902,
-      193,
-      4101,
-      3293,
-      2356
+      4107,
+      3769
     ],
     "organization": [
       "Eduskunta"
     ],
     "department": [
-      "Eduskuntaryhmä",
-      "Vasemmistoliiton eduskuntaryhmä"
+      "Keskustan eduskuntaryhmä"
     ],
-    "unit": [
-      "Vasemmistoliiton eduskuntaryhmä"
-    ],
+    "unit": [],
     "title": [
       "Kansanedustaja"
     ],
-    "name": "Anna Kontula"
+    "name": "Mauri Kontu"
   },
   {
     "id": [
@@ -5630,23 +5631,6 @@
     "unit": "",
     "title": "",
     "name": ""
-  },
-  {
-    "id": [
-      4107,
-      3769
-    ],
-    "organization": [
-      "Eduskunta"
-    ],
-    "department": [
-      "Keskustan eduskuntaryhmä"
-    ],
-    "unit": [],
-    "title": [
-      "Kansanedustaja"
-    ],
-    "name": "Mauri Kontu"
   },
   {
     "id": 4160,
@@ -9740,6 +9724,7 @@
   },
   {
     "id": [
+      4536,
       2656,
       1003,
       294
@@ -14663,6 +14648,26 @@
   },
   {
     "id": [
+      2496,
+      2259,
+      2258
+    ],
+    "organization": [
+      "Työ- ja elinkeinoministeriö (TEM)"
+    ],
+    "department": [
+      "Työ- ja elinkeinoministeriö"
+    ],
+    "unit": [
+      "Selvityshenkilö"
+    ],
+    "title": [
+      "Selvityshenkilö"
+    ],
+    "name": "Jukka Ahtela"
+  },
+  {
+    "id": [
       3824,
       3403,
       2497,
@@ -14797,28 +14802,6 @@
       "Alivaltiosihteeri"
     ],
     "name": "Petri Peltonen"
-  },
-  {
-    "id": [
-      3819,
-      3401,
-      2478,
-      1158,
-      449
-    ],
-    "organization": [
-      "Työ- ja elinkeinoministeriö (TEM)"
-    ],
-    "department": [
-      "Johto"
-    ],
-    "unit": [
-      "Johto"
-    ],
-    "title": [
-      "Alivaltiosihteeri"
-    ],
-    "name": "Elina Pylkkänen"
   },
   {
     "id": 2491,
@@ -15609,6 +15592,14 @@
     "name": "Matilda af Hällström"
   },
   {
+    "id": 4537,
+    "organization": "Ulkoministeriö (UM)",
+    "department": "",
+    "unit": "EU-yksikkö",
+    "title": "",
+    "name": ""
+  },
+  {
     "id": 3860,
     "organization": "Ulkoministeriö (UM)",
     "department": "",
@@ -16005,6 +15996,28 @@
       "Osastopäällikkö"
     ],
     "name": "Anna-Kaisa Heikkinen"
+  },
+  {
+    "id": [
+      3819,
+      3401,
+      2478,
+      1158,
+      449
+    ],
+    "organization": [
+      "Työ- ja elinkeinoministeriö (TEM)"
+    ],
+    "department": [
+      "Johto"
+    ],
+    "unit": [
+      "Johto"
+    ],
+    "title": [
+      "Alivaltiosihteeri"
+    ],
+    "name": "Elina Pylkkänen"
   },
   {
     "id": 1470,
